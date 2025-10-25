@@ -1,0 +1,1628 @@
+﻿Card Category,Churn,Clientnum,Customer Age (bin),Education Level,Gender,Income,Marital Status,Balance,Credit Limit,Customer Age,Dependent count,Months on book,Utilization Ratio
+Blue,Attrited Customer,708508758,60,Graduate,F,Less than $40K,Married,0,1438.3,62,0,49,0%
+Blue,Attrited Customer,708300483,60,Doctorate,F,Unknown,Married,605,7882,66,0,56,8%
+Blue,Retained Customers,779471883,50,Graduate,F,Less than $40K,Married,808,1438.3,54,1,40,56%
+Blue,Retained Customers,714374133,50,Graduate,M,$120K +,Married,0,15769,56,2,36,0%
+Silver,Attrited Customer,712030833,40,Graduate,M,$60K - $80K,Married,0,34516,48,2,35,0%
+Blue,Retained Customers,711013983,50,Unknown,F,$40K - $60K,Married,0,2158,55,4,45,0%
+Blue,Attrited Customer,711887583,40,Unknown,M,$80K - $120K,Married,1628,5449,47,2,37,30%
+Blue,Retained Customers,720201033,50,Graduate,M,$80K - $120K,Married,2227,11669,53,2,41,19%
+Blue,Attrited Customer,789322833,40,High School,F,Less than $40K,Married,0,8025,48,5,38,0%
+Blue,Retained Customers,767712558,50,College,M,$60K - $80K,Single,0,14979,59,1,53,0%
+Blue,Attrited Customer,712950783,40,Unknown,F,Less than $40K,Married,0,2732,48,4,38,0%
+Blue,Attrited Customer,713741358,40,Graduate,M,$80K - $120K,Single,2517,32975,46,5,33,8%
+Blue,Retained Customers,708953883,50,Unknown,M,$80K - $120K,Married,0,3212,53,2,36,0%
+Blue,Attrited Customer,708868233,60,High School,M,Less than $40K,Married,900,1438.3,68,0,52,63%
+Blue,Retained Customers,719808558,50,Graduate,F,Less than $40K,Married,0,1438.3,55,2,43,0%
+Blue,Retained Customers,711551958,50,Post-Graduate,M,$60K - $80K,Married,0,1438.3,59,2,46,0%
+Blue,Attrited Customer,772336458,60,Unknown,F,$40K - $60K,Married,1025,1438.3,60,1,50,71%
+Blue,Retained Customers,720997383,50,Unknown,M,$80K - $120K,Married,1833,1857,52,1,36,99%
+Blue,Retained Customers,710299608,50,Unknown,F,Less than $40K,Married,2517,2859,53,2,33,88%
+Blue,Attrited Customer,821797008,40,College,M,$40K - $60K,Married,0,1438.3,49,5,45,0%
+Blue,Attrited Customer,708874533,40,College,F,Less than $40K,Married,0,3387,45,2,36,0%
+Blue,Attrited Customer,712125258,40,High School,M,$120K +,Married,0,2442,46,4,30,0%
+Blue,Retained Customers,772390908,50,High School,M,$40K - $60K,Single,1054,3616,59,0,48,29%
+Blue,Retained Customers,778867533,50,Post-Graduate,F,$40K - $60K,Married,0,1438.3,59,0,40,0%
+Blue,Attrited Customer,771809733,60,High School,F,$40K - $60K,Married,0,3353,64,0,53,0%
+Blue,Attrited Customer,719211558,40,Graduate,M,$60K - $80K,Single,0,3401,45,2,36,0%
+Blue,Retained Customers,718621608,50,High School,F,Unknown,Married,0,6094,54,2,44,0%
+Blue,Attrited Customer,720272958,40,High School,M,$120K +,Married,0,27126,48,2,36,0%
+Blue,Retained Customers,709173108,50,Graduate,F,Unknown,Married,2221,2532,54,4,40,88%
+Blue,Retained Customers,708330858,50,Graduate,M,$120K +,Married,1381,8249,57,3,38,17%
+Blue,Retained Customers,709278258,50,Unknown,M,$40K - $60K,Married,2517,2902,54,2,44,87%
+Blue,Retained Customers,714871683,50,Unknown,M,$40K - $60K,Married,537,1438.3,58,1,36,37%
+Blue,Attrited Customer,708288108,40,Post-Graduate,M,$80K - $120K,Unknown,1547,5639,43,4,30,27%
+Blue,Retained Customers,717354558,50,Unknown,M,$120K +,Married,1120,3106,57,2,40,36%
+Blue,Attrited Customer,714639783,40,College,M,$60K - $80K,Married,0,13450,42,3,34,0%
+Blue,Attrited Customer,778868958,40,Graduate,F,Less than $40K,Married,1673,1929,42,2,23,87%
+Blue,Attrited Customer,710940183,40,Graduate,F,Less than $40K,Married,0,2185,49,3,38,0%
+Blue,Attrited Customer,709547658,30,Unknown,M,$60K - $80K,Single,1299,13961,39,2,36,9%
+Blue,Retained Customers,712159083,50,Unknown,F,Less than $40K,Married,0,2536,58,4,46,0%
+Blue,Retained Customers,711791583,50,Graduate,F,Less than $40K,Single,0,2317,52,1,40,0%
+Blue,Retained Customers,712315683,50,Unknown,F,Less than $40K,Single,1518,1981,53,2,45,77%
+Blue,Retained Customers,789842283,50,Graduate,M,$60K - $80K,Married,0,4320,54,2,42,0%
+Blue,Retained Customers,719418933,50,Unknown,M,$80K - $120K,Married,0,4503,53,2,36,0%
+Blue,Attrited Customer,781794708,30,Post-Graduate,M,$80K - $120K,Unknown,1911,17030,35,3,29,11%
+Blue,Attrited Customer,714272658,40,Unknown,F,Less than $40K,Single,2517,2962,43,2,24,85%
+Blue,Retained Customers,767294658,50,College,M,$120K +,Single,0,16867,56,2,50,0%
+Blue,Retained Customers,708241233,50,Post-Graduate,F,Less than $40K,Single,0,2972,52,3,47,0%
+Blue,Attrited Customer,716223708,40,Unknown,F,Unknown,Single,710,4028,45,3,36,18%
+Blue,Retained Customers,719443683,50,Unknown,M,$120K +,Single,2137,27512,50,1,39,8%
+Blue,Retained Customers,779610033,50,College,M,$80K - $120K,Married,1799,12151,58,1,47,15%
+Blue,Retained Customers,709345008,50,Doctorate,F,Unknown,Married,0,1438.3,53,2,39,0%
+Blue,Attrited Customer,721417233,40,Graduate,M,$60K - $80K,Married,0,1438.3,45,2,25,0%
+Blue,Attrited Customer,769137108,40,Post-Graduate,F,Less than $40K,Married,0,1438.3,43,2,37,0%
+Blue,Retained Customers,717640083,50,High School,M,$60K - $80K,Married,0,6705,59,1,36,0%
+Blue,Attrited Customer,794977533,60,High School,M,$60K - $80K,Married,0,8077,62,0,56,0%
+Blue,Retained Customers,752604633,50,College,M,$40K - $60K,Married,0,6462,57,2,50,0%
+Blue,Attrited Customer,711242058,40,Unknown,M,$80K - $120K,Single,2517,11862,48,4,36,21%
+Blue,Retained Customers,718121658,50,College,M,$60K - $80K,Married,0,1704,56,1,44,0%
+Blue,Retained Customers,711593808,50,High School,M,$60K - $80K,Married,0,1438.3,55,1,46,0%
+Blue,Attrited Customer,718731183,60,Unknown,M,$40K - $60K,Married,788,5472,61,1,49,14%
+Blue,Attrited Customer,713865333,40,Unknown,F,Less than $40K,Married,0,4908,45,4,38,0%
+Blue,Attrited Customer,797707008,40,Doctorate,F,Less than $40K,Married,0,7222,44,3,38,0%
+Blue,Retained Customers,720370533,50,Unknown,M,$60K - $80K,Married,0,2323,55,3,44,0%
+Blue,Retained Customers,718675158,50,Unknown,F,Less than $40K,Married,361,1438.3,55,1,36,25%
+Blue,Retained Customers,720605808,50,Graduate,F,Less than $40K,Single,0,1438.3,53,1,36,0%
+Blue,Attrited Customer,770724558,40,College,M,$60K - $80K,Married,0,7340,42,2,28,0%
+Blue,Retained Customers,719309958,50,Doctorate,M,$80K - $120K,Single,0,20865,55,3,35,0%
+Blue,Retained Customers,808897683,50,Graduate,M,$80K - $120K,Single,1406,30271,53,1,48,5%
+Blue,Retained Customers,718939083,50,Graduate,F,Less than $40K,Married,306,1438.3,54,2,45,21%
+Blue,Retained Customers,712979133,50,High School,M,$80K - $120K,Married,900,27560,55,4,41,3%
+Blue,Attrited Customer,720071583,40,Unknown,F,Less than $40K,Married,800,7151,48,2,36,11%
+Blue,Attrited Customer,812420358,60,Graduate,F,Less than $40K,Married,554,2122,61,0,56,26%
+Blue,Attrited Customer,798792408,40,High School,M,$80K - $120K,Married,0,9959,48,3,42,0%
+Blue,Retained Customers,711204483,50,High School,M,$60K - $80K,Married,1930,2340,56,4,46,83%
+Blue,Attrited Customer,713945883,60,Graduate,F,Less than $40K,Married,513,2490,62,2,52,21%
+Blue,Attrited Customer,789513858,40,Unknown,M,$40K - $60K,Married,0,1438.3,43,3,35,0%
+Blue,Retained Customers,771963708,50,Unknown,M,$60K - $80K,Married,0,12248,56,3,45,0%
+Blue,Retained Customers,712433508,50,Unknown,F,Unknown,Married,0,1438.3,59,1,50,0%
+Blue,Attrited Customer,778506633,40,College,F,Less than $40K,Married,392,7706,43,4,23,5%
+Blue,Retained Customers,713530833,50,Graduate,M,$40K - $60K,Married,2238,4085,58,2,48,55%
+Blue,Attrited Customer,778699908,40,Unknown,M,$60K - $80K,Married,0,14447,43,2,24,0%
+Blue,Retained Customers,716991933,50,Unknown,F,Less than $40K,Single,0,9786,53,3,35,0%
+Blue,Attrited Customer,802002858,60,High School,F,Unknown,Married,0,8990,62,1,56,0%
+Blue,Attrited Customer,712373208,40,Doctorate,M,$60K - $80K,Single,0,3312,43,3,35,0%
+Blue,Retained Customers,708455883,50,Graduate,M,$80K - $120K,Single,861,10244,57,1,36,8%
+Blue,Retained Customers,763895958,50,High School,M,$120K +,Married,0,7474,53,2,46,0%
+Blue,Retained Customers,711927108,50,High School,M,$80K - $120K,Married,350,9457,54,3,36,4%
+Blue,Attrited Customer,711147483,40,Graduate,F,Less than $40K,Single,1067,8551,46,3,28,13%
+Blue,Retained Customers,720990183,50,High School,M,$60K - $80K,Married,0,14539,54,5,36,0%
+Blue,Attrited Customer,716608608,40,Unknown,M,$80K - $120K,Married,1452,8004,41,2,33,18%
+Blue,Retained Customers,788673708,50,High School,F,$40K - $60K,Married,0,1438.3,57,2,45,0%
+Blue,Retained Customers,816600933,50,College,M,$80K - $120K,Married,0,14501,56,0,51,0%
+Blue,Attrited Customer,714208533,40,High School,M,$60K - $80K,Married,288,8663,43,3,36,3%
+Blue,Retained Customers,720426708,50,High School,M,$60K - $80K,Single,0,8512,56,3,45,0%
+Blue,Retained Customers,708983658,50,Unknown,M,$120K +,Single,0,16868,51,2,39,0%
+Blue,Attrited Customer,778663458,60,High School,M,Less than $40K,Married,0,1759,65,1,47,0%
+Blue,Retained Customers,716024808,50,Graduate,M,$80K - $120K,Married,2418,4829,57,1,36,50%
+Blue,Attrited Customer,721249158,40,Unknown,M,$60K - $80K,Single,0,6414,42,2,30,0%
+Blue,Attrited Customer,713845083,40,High School,F,Less than $40K,Single,2517,4203,41,4,36,60%
+Blue,Attrited Customer,813499458,40,High School,M,$60K - $80K,Unknown,0,1438.3,45,5,40,0%
+Blue,Attrited Customer,785011383,30,Unknown,F,$40K - $60K,Divorced,0,2190,36,0,30,0%
+Blue,Attrited Customer,718252533,30,Graduate,F,Less than $40K,Divorced,996,4203,30,0,18,24%
+Blue,Attrited Customer,711843708,60,Graduate,F,Less than $40K,Divorced,0,2125,61,0,36,0%
+Blue,Attrited Customer,816013383,60,Graduate,F,Less than $40K,Divorced,0,6184,65,0,56,0%
+Blue,Attrited Customer,714726858,30,Post-Graduate,F,Less than $40K,Divorced,0,4871,31,0,36,0%
+Blue,Retained Customers,709534083,50,Unknown,F,Less than $40K,Divorced,0,9909,58,0,36,0%
+Blue,Attrited Customer,721406658,30,Unknown,F,Less than $40K,Divorced,0,1732,32,0,36,0%
+Blue,Attrited Customer,712677633,40,Unknown,F,Unknown,Divorced,0,2712,42,0,31,0%
+Blue,Attrited Customer,771783333,40,Unknown,F,$40K - $60K,Divorced,0,2173,49,1,37,0%
+Blue,Attrited Customer,710015733,40,Doctorate,F,Less than $40K,Divorced,621,2029,41,1,30,31%
+Blue,Retained Customers,715960308,50,Graduate,F,Less than $40K,Divorced,2517,4090,53,1,44,62%
+Blue,Retained Customers,794172033,50,Post-Graduate,F,Less than $40K,Divorced,0,1817,58,1,52,0%
+Blue,Attrited Customer,789212883,30,Unknown,F,Less than $40K,Divorced,0,1644,30,1,19,0%
+Blue,Attrited Customer,713677158,30,Graduate,F,Unknown,Divorced,0,1623,31,1,22,0%
+Blue,Retained Customers,827964858,50,Unknown,F,Unknown,Divorced,859,3266,58,1,54,26%
+Blue,Attrited Customer,720049083,30,Unknown,F,Unknown,Divorced,0,1438.3,35,1,24,0%
+Blue,Retained Customers,711949683,50,College,F,$40K - $60K,Divorced,2517,4410,55,2,36,57%
+Blue,Attrited Customer,789637308,40,College,F,$40K - $60K,Divorced,0,3076,45,2,39,0%
+Blue,Retained Customers,709745508,50,Unknown,F,$40K - $60K,Divorced,0,2295,58,2,47,0%
+Blue,Attrited Customer,712843983,40,College,F,Less than $40K,Divorced,257,1569,41,2,36,16%
+Blue,Attrited Customer,708804633,40,Doctorate,F,Less than $40K,Divorced,0,1916,44,2,36,0%
+Blue,Attrited Customer,714620358,30,Graduate,F,Less than $40K,Divorced,2517,3328,37,2,30,76%
+Blue,Attrited Customer,713466033,30,Graduate,F,Less than $40K,Divorced,0,2092,39,2,36,0%
+Blue,Attrited Customer,708117933,40,Graduate,F,Less than $40K,Divorced,0,1880,44,2,36,0%
+Blue,Retained Customers,809849358,50,Graduate,F,Less than $40K,Divorced,0,1720,55,2,50,0%
+Blue,Attrited Customer,709101258,40,High School,F,Less than $40K,Divorced,524,1478,41,2,28,36%
+Blue,Retained Customers,720251358,50,High School,F,Less than $40K,Divorced,2517,3591,54,2,36,70%
+Blue,Attrited Customer,710289783,40,Unknown,F,Less than $40K,Divorced,2007,2086,43,2,25,96%
+Blue,Attrited Customer,719577258,40,Unknown,F,Less than $40K,Divorced,0,6811,43,2,30,0%
+Blue,Retained Customers,715847058,50,Unknown,F,Less than $40K,Divorced,1853,1863,59,2,36,100%
+Blue,Attrited Customer,713722608,40,Unknown,F,Less than $40K,Divorced,2514,2806,48,2,35,90%
+Blue,Retained Customers,720085233,50,Doctorate,F,Unknown,Divorced,2517,8930,51,2,40,28%
+Blue,Attrited Customer,711399408,30,Graduate,F,Unknown,Divorced,0,12373,34,2,25,0%
+Blue,Attrited Customer,712784058,40,High School,F,Unknown,Divorced,2517,17156,45,2,36,15%
+Blue,Retained Customers,714629358,50,Graduate,F,$40K - $60K,Divorced,0,4948,54,3,34,0%
+Blue,Attrited Customer,826709658,40,Graduate,F,$40K - $60K,Divorced,0,1477,45,3,41,0%
+Blue,Attrited Customer,708575058,40,Unknown,F,$40K - $60K,Divorced,965,3157,46,3,39,31%
+Blue,Attrited Customer,709232808,40,Unknown,F,$40K - $60K,Divorced,0,1689,44,3,34,0%
+Blue,Attrited Customer,713847858,40,Graduate,F,Less than $40K,Divorced,0,1438.3,49,3,36,0%
+Blue,Retained Customers,711267633,50,Graduate,F,Less than $40K,Divorced,316,4248,50,3,40,7%
+Blue,Retained Customers,712395408,50,Graduate,F,Less than $40K,Divorced,691,1495,51,3,41,46%
+Blue,Attrited Customer,779084208,40,High School,F,Less than $40K,Divorced,613,1662,43,3,24,37%
+Blue,Attrited Customer,719384433,40,High School,F,Less than $40K,Divorced,1203,1877,44,3,28,64%
+Blue,Attrited Customer,804462633,40,High School,F,Less than $40K,Divorced,0,7084,43,3,38,0%
+Blue,Retained Customers,805524708,50,High School,F,Less than $40K,Divorced,2517,6629,52,3,47,38%
+Blue,Attrited Customer,720597108,40,Post-Graduate,F,Less than $40K,Divorced,2138,9943,48,3,36,22%
+Blue,Attrited Customer,709711758,40,Unknown,F,Less than $40K,Divorced,0,1942,45,3,32,0%
+Blue,Attrited Customer,712721358,40,Unknown,F,Less than $40K,Divorced,2517,4073,48,3,36,62%
+Blue,Attrited Customer,779530908,40,Unknown,F,Less than $40K,Divorced,0,1438.3,48,3,31,0%
+Blue,Attrited Customer,718263108,40,Unknown,F,Less than $40K,Divorced,1457,1693,44,3,32,86%
+Blue,Attrited Customer,713772333,40,Unknown,F,Less than $40K,Divorced,243,3223,45,3,34,8%
+Blue,Retained Customers,716299608,50,Unknown,F,Less than $40K,Divorced,0,1508,58,3,36,0%
+Blue,Attrited Customer,712046808,40,Doctorate,F,Unknown,Divorced,1558,3802,49,3,42,41%
+Blue,Attrited Customer,717074283,40,Graduate,F,Unknown,Divorced,0,17678,45,3,37,0%
+Blue,Retained Customers,714406158,50,High School,F,Unknown,Divorced,0,7939,53,3,36,0%
+Blue,Attrited Customer,708706833,30,Unknown,F,Unknown,Divorced,0,2809,39,3,36,0%
+Blue,Attrited Customer,712369308,40,Doctorate,F,$40K - $60K,Divorced,1047,3646,48,4,35,29%
+Blue,Attrited Customer,708809283,40,Graduate,F,$40K - $60K,Divorced,2517,10360,41,4,33,24%
+Blue,Attrited Customer,821759658,40,High School,F,$40K - $60K,Divorced,204,4650,41,4,37,4%
+Blue,Attrited Customer,814483608,40,Graduate,F,Less than $40K,Divorced,2517,5798,47,4,42,43%
+Blue,Attrited Customer,780660183,40,High School,F,Less than $40K,Divorced,0,8203,43,4,32,0%
+Blue,Attrited Customer,716873733,40,Post-Graduate,F,Less than $40K,Divorced,2517,3556,43,4,30,71%
+Blue,Attrited Customer,712740108,40,Unknown,F,Less than $40K,Divorced,0,1706,43,4,33,0%
+Blue,Attrited Customer,713934633,40,Unknown,F,Less than $40K,Divorced,2517,4423,40,4,35,57%
+Blue,Attrited Customer,711736083,40,College,F,Unknown,Divorced,274,6769,47,4,36,4%
+Blue,Retained Customers,709961958,50,High School,F,Unknown,Divorced,2517,21065,58,4,45,12%
+Blue,Retained Customers,719612583,50,Unknown,F,Unknown,Divorced,0,12091,52,4,42,0%
+Blue,Attrited Customer,714487458,40,Graduate,F,$40K - $60K,Divorced,0,2920,49,5,40,0%
+Blue,Attrited Customer,713229633,40,Unknown,F,$40K - $60K,Married,0,2759,45,0,30,0%
+Blue,Attrited Customer,714076683,20,College,F,Less than $40K,Married,2517,3261,29,0,19,77%
+Blue,Attrited Customer,827051808,40,College,F,Less than $40K,Married,1083,7499,44,0,40,14%
+Blue,Attrited Customer,710895708,30,Doctorate,F,Less than $40K,Married,0,3876,35,0,27,0%
+Blue,Retained Customers,719326758,50,Doctorate,F,Less than $40K,Married,1489,4353,52,0,36,34%
+Blue,Attrited Customer,715445058,40,Doctorate,F,Less than $40K,Married,2517,3547,49,0,40,71%
+Blue,Retained Customers,714372333,50,Doctorate,F,Less than $40K,Married,0,2302,59,0,52,0%
+Blue,Retained Customers,778915233,50,Graduate,F,Less than $40K,Married,331,1757,51,0,32,19%
+Blue,Attrited Customer,715547058,30,Graduate,F,Less than $40K,Married,0,2089,35,0,36,0%
+Blue,Retained Customers,714520233,50,Graduate,F,Less than $40K,Married,0,1708,59,0,36,0%
+Blue,Retained Customers,711684408,50,Graduate,F,Less than $40K,Married,1574,4935,50,0,38,32%
+Blue,Attrited Customer,710754933,60,Graduate,F,Less than $40K,Married,0,1438.3,61,0,49,0%
+Blue,Retained Customers,711159108,50,High School,F,Less than $40K,Married,396,7418,58,0,36,5%
+Blue,Retained Customers,708731658,50,High School,F,Less than $40K,Married,0,1438.3,53,0,41,0%
+Blue,Attrited Customer,780289308,60,High School,F,Less than $40K,Married,0,4130,61,0,47,0%
+Blue,Attrited Customer,710153583,30,Unknown,F,Less than $40K,Married,0,6075,30,0,13,0%
+Blue,Attrited Customer,712683633,30,Unknown,F,Less than $40K,Married,0,1438.3,32,0,36,0%
+Blue,Attrited Customer,715154058,40,Unknown,F,Less than $40K,Married,2517,4982,49,0,39,51%
+Blue,Retained Customers,719018208,50,Doctorate,F,Unknown,Married,0,7210,52,0,46,0%
+Blue,Retained Customers,713144208,50,High School,F,Unknown,Married,568,9989,51,0,42,6%
+Blue,Attrited Customer,820694133,60,High School,F,Unknown,Married,0,5549,60,0,55,0%
+Blue,Attrited Customer,715014633,30,Unknown,F,Unknown,Married,0,8791,32,0,36,0%
+Blue,Retained Customers,718404783,50,Unknown,F,Unknown,Married,0,6996,59,0,49,0%
+Blue,Attrited Customer,708660408,40,College,F,$40K - $60K,Married,1689,1737,40,1,36,97%
+Blue,Retained Customers,811475733,50,College,F,$40K - $60K,Married,0,3339,53,1,48,0%
+Blue,Attrited Customer,796903083,40,Doctorate,F,$40K - $60K,Married,0,1438.3,47,1,36,0%
+Blue,Attrited Customer,771733608,40,Graduate,F,$40K - $60K,Married,0,1438.3,47,1,35,0%
+Blue,Retained Customers,714773508,50,Graduate,F,$40K - $60K,Married,351,1632,54,1,46,22%
+Blue,Attrited Customer,715516458,40,High School,F,$40K - $60K,Married,2430,2705,42,1,36,90%
+Blue,Retained Customers,789923058,50,High School,F,$40K - $60K,Married,0,1816,53,1,44,0%
+Blue,Retained Customers,718742808,50,High School,F,$40K - $60K,Married,710,4629,55,1,46,15%
+Blue,Attrited Customer,714078558,60,High School,F,$40K - $60K,Married,0,5249,62,1,53,0%
+Blue,Attrited Customer,710493558,40,Post-Graduate,F,$40K - $60K,Married,0,1803,46,1,38,0%
+Blue,Retained Customers,717575958,50,Post-Graduate,F,$40K - $60K,Married,479,1694,50,1,41,28%
+Blue,Attrited Customer,715950483,30,Unknown,F,$40K - $60K,Married,725,2821,39,1,27,26%
+Blue,Attrited Customer,715858008,40,Unknown,F,$40K - $60K,Married,2517,8061,49,1,39,31%
+Blue,Attrited Customer,714595983,40,Unknown,F,$40K - $60K,Married,522,1438.3,49,1,41,36%
+Blue,Attrited Customer,708703308,30,Unknown,F,$40K - $60K,Married,1707,2045,35,1,26,84%
+Blue,Retained Customers,712925808,50,Unknown,F,$40K - $60K,Married,0,2710,51,1,36,0%
+Blue,Retained Customers,808903308,50,Unknown,F,$40K - $60K,Married,0,2471,54,1,49,0%
+Blue,Attrited Customer,715497558,40,College,F,Less than $40K,Married,0,3052,44,1,36,0%
+Blue,Attrited Customer,789432033,30,Graduate,F,Less than $40K,Married,230,4065,32,1,23,6%
+Blue,Attrited Customer,757710783,30,Graduate,F,Less than $40K,Married,0,1493,36,1,29,0%
+Blue,Attrited Customer,710533233,30,Graduate,F,Less than $40K,Married,0,1438.3,38,1,29,0%
+Blue,Attrited Customer,711871758,30,Graduate,F,Less than $40K,Married,2517,2905,30,1,36,87%
+Blue,Attrited Customer,714602658,30,Graduate,F,Less than $40K,Married,0,1462,39,1,36,0%
+Blue,Attrited Customer,709663608,40,Graduate,F,Less than $40K,Married,0,1536,43,1,36,0%
+Blue,Retained Customers,714384783,50,Graduate,F,Less than $40K,Married,0,2468,59,1,36,0%
+Blue,Retained Customers,718160358,50,Graduate,F,Less than $40K,Married,0,1438.3,51,1,39,0%
+Blue,Attrited Customer,769438608,40,Graduate,F,Less than $40K,Married,860,1942,48,1,42,44%
+Blue,Retained Customers,709362033,50,Graduate,F,Less than $40K,Married,0,1471,52,1,42,0%
+Blue,Attrited Customer,784895358,40,Graduate,F,Less than $40K,Married,0,1938,49,1,43,0%
+Blue,Retained Customers,719084358,50,Graduate,F,Less than $40K,Married,0,4232,55,1,46,0%
+Blue,Retained Customers,714789033,50,Graduate,F,Less than $40K,Married,2517,3173,54,1,50,79%
+Blue,Attrited Customer,787452333,30,High School,F,Less than $40K,Married,0,2024,39,1,25,0%
+Blue,Attrited Customer,713381433,30,High School,F,Less than $40K,Married,731,4196,38,1,28,17%
+Blue,Attrited Customer,716506083,40,High School,F,Less than $40K,Married,0,5409,44,1,36,0%
+Blue,Attrited Customer,826421958,40,High School,F,Less than $40K,Married,0,1438.3,46,1,42,0%
+Blue,Retained Customers,716688183,50,High School,F,Less than $40K,Married,1521,1665,51,1,43,91%
+Blue,Retained Customers,709646433,50,High School,F,Less than $40K,Married,743,5043,59,1,50,15%
+Blue,Attrited Customer,779844408,40,Post-Graduate,F,Less than $40K,Married,0,1438.3,43,1,27,0%
+Blue,Retained Customers,714035283,50,Post-Graduate,F,Less than $40K,Married,2256,2802,56,1,36,81%
+Blue,Attrited Customer,772127508,30,Unknown,F,Less than $40K,Married,0,1438.3,31,1,20,0%
+Blue,Attrited Customer,714684933,40,Unknown,F,Less than $40K,Married,0,3680,40,1,28,0%
+Blue,Retained Customers,711862533,50,Unknown,F,Less than $40K,Married,2000,2258,55,1,36,89%
+Blue,Attrited Customer,711196458,30,Unknown,F,Less than $40K,Married,580,1621,38,1,20,36%
+Blue,Retained Customers,778959258,50,Unknown,F,Less than $40K,Married,0,1438.3,51,1,32,0%
+Blue,Attrited Customer,771284658,40,Unknown,F,Less than $40K,Married,896,1850,47,1,35,48%
+Blue,Attrited Customer,716751858,30,Unknown,F,Less than $40K,Married,496,2401,34,1,36,21%
+Blue,Attrited Customer,719495958,40,Unknown,F,Less than $40K,Married,0,2983,42,1,36,0%
+Blue,Retained Customers,713608383,50,Unknown,F,Less than $40K,Married,0,1438.3,54,1,40,0%
+Blue,Retained Customers,713253858,50,College,F,Unknown,Married,0,1461,50,1,37,0%
+Blue,Retained Customers,771594783,50,College,F,Unknown,Married,0,1438.3,56,1,44,0%
+Blue,Retained Customers,779841483,50,Doctorate,F,Unknown,Married,1424,12972,55,1,39,11%
+Blue,Attrited Customer,711149133,30,Graduate,F,Unknown,Married,2517,4377,30,1,18,58%
+Blue,Attrited Customer,708519108,40,Graduate,F,Unknown,Married,1576,2694,46,1,24,59%
+Blue,Attrited Customer,714514008,30,Graduate,F,Unknown,Married,0,8953,38,1,29,0%
+Blue,Retained Customers,713857758,50,Graduate,F,Unknown,Married,198,5842,53,1,36,3%
+Blue,Retained Customers,716368008,50,Graduate,F,Unknown,Married,959,3137,54,1,36,31%
+Blue,Retained Customers,720711483,50,High School,F,Unknown,Married,2517,3674,56,1,42,69%
+Blue,Attrited Customer,711671058,40,Unknown,F,Unknown,Married,0,1438.3,48,1,38,0%
+Blue,Retained Customers,827898033,50,Unknown,F,Unknown,Married,0,2912,54,1,50,0%
+Blue,Retained Customers,818375733,50,College,F,$40K - $60K,Married,695,4882,51,2,46,14%
+Blue,Attrited Customer,771061008,40,Doctorate,F,$40K - $60K,Married,0,2208,40,2,27,0%
+Blue,Attrited Customer,778819083,40,Doctorate,F,$40K - $60K,Married,0,1604,41,2,33,0%
+Blue,Retained Customers,709143183,50,Doctorate,F,$40K - $60K,Married,1605,1822,52,2,43,88%
+Blue,Attrited Customer,778888083,40,Graduate,F,$40K - $60K,Married,0,4307,45,2,26,0%
+Blue,Attrited Customer,714045783,30,Graduate,F,$40K - $60K,Married,1965,2547,37,2,29,77%
+Blue,Attrited Customer,714549558,40,Graduate,F,$40K - $60K,Married,0,9576,41,2,32,0%
+Blue,Attrited Customer,708918558,30,Graduate,F,$40K - $60K,Married,662,1959,37,2,36,34%
+Blue,Attrited Customer,709612983,40,Graduate,F,$40K - $60K,Married,1828,2990,41,2,36,61%
+Blue,Retained Customers,772574283,50,Graduate,F,$40K - $60K,Married,0,7191,50,2,40,0%
+Blue,Retained Customers,717725433,50,Graduate,F,$40K - $60K,Married,0,1606,54,2,44,0%
+Blue,Retained Customers,714097683,50,Graduate,F,$40K - $60K,Married,0,1809,55,2,49,0%
+Blue,Attrited Customer,717412608,30,High School,F,$40K - $60K,Married,0,7225,38,2,28,0%
+Blue,Attrited Customer,715499058,30,High School,F,$40K - $60K,Married,0,1848,36,2,36,0%
+Blue,Retained Customers,709307808,50,High School,F,$40K - $60K,Married,0,4375,59,2,36,0%
+Blue,Attrited Customer,780146658,40,Post-Graduate,F,$40K - $60K,Married,2517,3795,40,2,25,66%
+Blue,Retained Customers,709178733,50,Post-Graduate,F,$40K - $60K,Married,1120,5527,50,2,36,20%
+Blue,Retained Customers,711588708,50,Unknown,F,$40K - $60K,Married,458,1438.3,50,2,36,32%
+Blue,Attrited Customer,720062508,30,Unknown,F,$40K - $60K,Married,0,1628,38,2,28,0%
+Blue,Attrited Customer,715146558,30,College,F,Less than $40K,Married,0,1696,34,2,36,0%
+Blue,Attrited Customer,712734933,40,College,F,Less than $40K,Married,0,4020,43,2,36,0%
+Blue,Attrited Customer,714100008,40,College,F,Less than $40K,Married,2517,5667,47,2,36,44%
+Blue,Retained Customers,717042333,50,College,F,Less than $40K,Married,0,1473,53,2,44,0%
+Blue,Attrited Customer,709460883,30,Doctorate,F,Less than $40K,Married,0,1614,38,2,28,0%
+Blue,Attrited Customer,770596458,40,Doctorate,F,Less than $40K,Married,2262,2704,45,2,31,84%
+Blue,Attrited Customer,713949858,30,Doctorate,F,Less than $40K,Married,886,1438.3,39,2,36,62%
+Blue,Attrited Customer,720991833,40,Doctorate,F,Less than $40K,Married,2090,2514,48,2,36,83%
+Blue,Retained Customers,714503433,50,Doctorate,F,Less than $40K,Married,950,1615,57,2,36,59%
+Blue,Retained Customers,772532208,50,Doctorate,F,Less than $40K,Married,916,6630,51,2,41,14%
+Blue,Retained Customers,718863258,50,Doctorate,F,Less than $40K,Married,2517,3881,54,2,41,65%
+Blue,Retained Customers,807587433,50,Doctorate,F,Less than $40K,Married,0,1438.3,56,2,51,0%
+Blue,Attrited Customer,709850508,30,Graduate,F,Less than $40K,Married,0,3202,33,2,20,0%
+Blue,Attrited Customer,772162683,30,Graduate,F,Less than $40K,Married,0,3116,34,2,23,0%
+Blue,Attrited Customer,718303683,30,Graduate,F,Less than $40K,Married,813,1666,36,2,23,49%
+Blue,Attrited Customer,778364583,40,Graduate,F,Less than $40K,Married,916,5911,45,2,25,16%
+Blue,Attrited Customer,713492583,30,Graduate,F,Less than $40K,Married,0,5845,34,2,29,0%
+Blue,Attrited Customer,773228133,30,Graduate,F,Less than $40K,Married,0,1677,39,2,29,0%
+Blue,Attrited Customer,716643033,40,Graduate,F,Less than $40K,Married,2137,2580,41,2,31,83%
+Blue,Attrited Customer,713685033,40,Graduate,F,Less than $40K,Married,0,2417,44,2,33,0%
+Blue,Attrited Customer,711448983,40,Graduate,F,Less than $40K,Married,2024,2234,47,2,34,91%
+Blue,Attrited Customer,719860308,40,Graduate,F,Less than $40K,Married,0,1438.3,42,2,36,0%
+Blue,Attrited Customer,789177333,40,Graduate,F,Less than $40K,Married,1088,1693,47,2,36,64%
+Blue,Retained Customers,720142308,50,Graduate,F,Less than $40K,Married,0,2160,52,2,36,0%
+Blue,Attrited Customer,710785383,40,Graduate,F,Less than $40K,Married,0,2212,49,2,39,0%
+Blue,Attrited Customer,820282383,40,Graduate,F,Less than $40K,Married,2517,5848,45,2,40,43%
+Blue,Retained Customers,717252483,50,Graduate,F,Less than $40K,Married,0,2796,57,2,41,0%
+Blue,Retained Customers,714250908,50,Graduate,F,Less than $40K,Married,2517,2927,53,2,47,86%
+Blue,Attrited Customer,712691883,40,High School,F,Less than $40K,Married,2404,2811,41,2,36,86%
+Blue,Attrited Customer,710525508,40,High School,F,Less than $40K,Married,455,1438.3,48,2,36,32%
+Blue,Retained Customers,714202008,50,High School,F,Less than $40K,Married,2517,3918,53,2,36,64%
+Blue,Attrited Customer,721228308,40,High School,F,Less than $40K,Married,0,3899,47,2,39,0%
+Blue,Attrited Customer,779279883,60,High School,F,Less than $40K,Married,0,1438.3,60,2,42,0%
+Blue,Retained Customers,717518733,50,High School,F,Less than $40K,Married,764,9463,56,2,46,8%
+Blue,Retained Customers,807136758,50,High School,F,Less than $40K,Married,0,1944,58,2,53,0%
+Blue,Attrited Customer,720739083,30,Post-Graduate,F,Less than $40K,Married,0,1691,36,2,25,0%
+Blue,Retained Customers,711692508,50,Post-Graduate,F,Less than $40K,Married,0,1438.3,54,2,47,0%
+Blue,Retained Customers,716282208,50,Post-Graduate,F,Less than $40K,Married,0,1638,54,2,48,0%
+Blue,Attrited Customer,753795633,40,Unknown,F,Less than $40K,Married,2517,2964,48,2,41,85%
+Blue,Retained Customers,827451333,50,Unknown,F,Less than $40K,Married,0,2247,54,2,50,0%
+Blue,Retained Customers,712160058,50,Unknown,F,Less than $40K,Married,0,1438.3,59,2,51,0%
+Blue,Attrited Customer,712562433,40,Unknown,F,Less than $40K,Married,0,4204,48,2,30,0%
+Blue,Attrited Customer,812218908,40,Unknown,F,Less than $40K,Married,2517,4065,46,2,36,62%
+Blue,Retained Customers,709017258,50,Unknown,F,Less than $40K,Married,0,2114,51,2,36,0%
+Blue,Attrited Customer,708229308,40,Unknown,F,Less than $40K,Married,0,3243,49,2,41,0%
+Blue,Attrited Customer,826077033,40,Unknown,F,Less than $40K,Married,0,2002,46,2,42,0%
+Blue,Retained Customers,721480158,50,Unknown,F,Less than $40K,Married,910,1438.3,50,2,43,63%
+Blue,Retained Customers,719683158,50,Unknown,F,Less than $40K,Married,0,4746,56,2,48,0%
+Blue,Attrited Customer,712662783,40,College,F,Unknown,Married,2517,3793,43,2,36,66%
+Blue,Attrited Customer,720634683,40,College,F,Unknown,Married,0,2220,48,2,37,0%
+Blue,Attrited Customer,779269158,40,Graduate,F,Unknown,Married,0,21961,43,2,25,0%
+Blue,Retained Customers,719150658,50,Graduate,F,Unknown,Married,0,7551,51,2,34,0%
+Blue,Attrited Customer,716404383,40,Graduate,F,Unknown,Married,2517,18799,47,2,36,13%
+Blue,Retained Customers,712916958,50,Graduate,F,Unknown,Married,0,12494,55,2,36,0%
+Blue,Attrited Customer,819714408,40,Graduate,F,Unknown,Married,2386,5666,44,2,39,42%
+Blue,Retained Customers,720810783,50,Graduate,F,Unknown,Married,1692,3781,54,2,44,45%
+Blue,Attrited Customer,778781508,40,High School,F,Unknown,Married,2517,8477,44,2,32,30%
+Blue,Retained Customers,711666708,50,High School,F,Unknown,Married,1790,2233,52,2,39,80%
+Blue,Retained Customers,718250883,50,High School,F,Unknown,Married,1397,3875,59,2,51,36%
+Blue,Retained Customers,712450008,50,Post-Graduate,F,Unknown,Married,0,4045,50,2,36,0%
+Blue,Attrited Customer,708642708,40,Unknown,F,Unknown,Married,0,13019,40,2,36,0%
+Blue,Attrited Customer,720283758,40,Unknown,F,Unknown,Married,1733,13735,44,2,36,13%
+Blue,Retained Customers,795599883,50,Unknown,F,Unknown,Married,284,2404,57,2,51,12%
+Blue,Attrited Customer,713823033,30,Unknown,F,Unknown,Married,0,8149,31,2,20,0%
+Blue,Attrited Customer,713163258,30,Unknown,F,Unknown,Married,0,3388,38,2,33,0%
+Blue,Attrited Customer,711253383,40,Unknown,F,Unknown,Married,0,4382,48,2,38,0%
+Blue,Retained Customers,709192233,50,Unknown,F,Unknown,Married,0,1773,50,2,39,0%
+Blue,Retained Customers,816476658,50,Unknown,F,Unknown,Married,1798,1812,54,2,49,99%
+Blue,Attrited Customer,716272158,40,College,F,$40K - $60K,Married,2517,4312,41,3,15,58%
+Blue,Retained Customers,714197133,50,College,F,$40K - $60K,Married,0,4762,51,3,36,0%
+Blue,Attrited Customer,794560833,40,Graduate,F,$40K - $60K,Married,0,5496,47,3,31,0%
+Blue,Attrited Customer,779681433,40,Graduate,F,$40K - $60K,Married,0,14899,48,3,31,0%
+Blue,Attrited Customer,780143283,40,Graduate,F,$40K - $60K,Married,2498,2701,43,3,32,93%
+Blue,Attrited Customer,716448783,40,Graduate,F,$40K - $60K,Married,0,6235,48,3,39,0%
+Blue,Retained Customers,708606633,50,Graduate,F,$40K - $60K,Married,0,1544,56,3,44,0%
+Blue,Attrited Customer,719868183,40,High School,F,$40K - $60K,Married,0,1456,42,3,30,0%
+Blue,Attrited Customer,779722308,40,High School,F,$40K - $60K,Married,0,12355,45,3,30,0%
+Blue,Attrited Customer,711716133,40,High School,F,$40K - $60K,Married,1381,1585,42,3,34,87%
+Blue,Attrited Customer,711527508,40,High School,F,$40K - $60K,Married,0,8583,46,3,34,0%
+Blue,Attrited Customer,715016508,40,High School,F,$40K - $60K,Married,0,4527,42,3,36,0%
+Blue,Attrited Customer,717172308,40,High School,F,$40K - $60K,Married,0,3304,45,3,37,0%
+Blue,Attrited Customer,716486508,40,High School,F,$40K - $60K,Married,0,3399,45,3,37,0%
+Blue,Retained Customers,805313808,50,High School,F,$40K - $60K,Married,134,8018,52,3,47,2%
+Blue,Retained Customers,803595858,50,High School,F,$40K - $60K,Married,0,1438.3,56,3,51,0%
+Blue,Attrited Customer,716315508,30,Post-Graduate,F,$40K - $60K,Married,2517,3233,37,3,36,78%
+Blue,Attrited Customer,713736333,40,Unknown,F,$40K - $60K,Married,0,3606,41,3,36,0%
+Blue,Attrited Customer,715400733,40,Unknown,F,$40K - $60K,Married,0,1438.3,43,3,36,0%
+Blue,Attrited Customer,713186058,40,Unknown,F,$40K - $60K,Married,0,1438.3,42,3,36,0%
+Blue,Attrited Customer,711826983,40,Unknown,F,$40K - $60K,Married,0,5822,47,3,36,0%
+Blue,Attrited Customer,710721858,40,Unknown,F,$40K - $60K,Married,0,5542,46,3,37,0%
+Blue,Attrited Customer,720507108,40,College,F,Less than $40K,Married,0,1601,42,3,28,0%
+Blue,Attrited Customer,712297683,40,College,F,Less than $40K,Married,0,1781,47,3,35,0%
+Blue,Attrited Customer,713929533,30,College,F,Less than $40K,Married,0,1707,36,3,36,0%
+Blue,Attrited Customer,714519408,40,College,F,Less than $40K,Married,2139,5357,44,3,36,40%
+Blue,Attrited Customer,712292133,40,College,F,Less than $40K,Married,2294,2330,45,3,36,99%
+Blue,Attrited Customer,709500183,40,College,F,Less than $40K,Married,0,1804,46,3,36,0%
+Blue,Attrited Customer,708946008,40,College,F,Less than $40K,Married,1214,1438.3,46,3,36,84%
+Blue,Retained Customers,720963258,50,College,F,Less than $40K,Married,0,3474,52,3,40,0%
+Blue,Attrited Customer,769575783,40,College,F,Less than $40K,Married,749,1603,49,3,41,47%
+Blue,Retained Customers,789358908,50,College,F,Less than $40K,Married,0,3573,53,3,43,0%
+Blue,Retained Customers,715660308,50,College,F,Less than $40K,Married,2412,2921,54,3,44,83%
+Blue,Attrited Customer,713726958,40,Doctorate,F,Less than $40K,Married,0,1728,40,3,21,0%
+Blue,Attrited Customer,709708233,40,Doctorate,F,Less than $40K,Married,0,7066,49,3,29,0%
+Blue,Attrited Customer,717047583,40,Doctorate,F,Less than $40K,Married,2517,4779,47,3,35,53%
+Blue,Attrited Customer,720206658,40,Graduate,F,Less than $40K,Married,458,1479,40,3,29,31%
+Blue,Attrited Customer,713679633,40,Graduate,F,Less than $40K,Married,0,1438.3,41,3,33,0%
+Blue,Attrited Customer,712552608,40,Graduate,F,Less than $40K,Married,0,1438.3,46,3,34,0%
+Blue,Attrited Customer,757247808,40,Graduate,F,Less than $40K,Married,2517,5230,42,3,35,48%
+Blue,Attrited Customer,710690733,40,Graduate,F,Less than $40K,Married,0,1666,47,3,35,0%
+Blue,Attrited Customer,712222758,30,Graduate,F,Less than $40K,Married,0,2300,38,3,36,0%
+Blue,Attrited Customer,712623258,40,Graduate,F,Less than $40K,Married,2517,5505,42,3,36,46%
+Blue,Attrited Customer,711919608,40,Graduate,F,Less than $40K,Married,1720,2031,42,3,36,85%
+Blue,Attrited Customer,716421633,40,Graduate,F,Less than $40K,Married,0,3523,43,3,36,0%
+Blue,Attrited Customer,718171308,40,Graduate,F,Less than $40K,Married,0,1984,44,3,36,0%
+Blue,Attrited Customer,772382283,40,Graduate,F,Less than $40K,Married,1593,2302,46,3,36,69%
+Blue,Retained Customers,715222533,50,Graduate,F,Less than $40K,Married,1079,2566,52,3,36,42%
+Blue,Attrited Customer,708298233,40,Graduate,F,Less than $40K,Married,0,6184,49,3,37,0%
+Blue,Attrited Customer,795784008,40,Graduate,F,Less than $40K,Married,2517,3889,44,3,38,65%
+Blue,Retained Customers,713931258,50,Graduate,F,Less than $40K,Married,0,1438.3,56,3,45,0%
+Blue,Retained Customers,771422883,50,Graduate,F,Less than $40K,Married,186,1759,57,3,45,11%
+Blue,Retained Customers,810875958,50,Graduate,F,Less than $40K,Married,395,2016,51,3,46,20%
+Blue,Attrited Customer,711274458,30,High School,F,Less than $40K,Married,0,1438.3,38,3,27,0%
+Blue,Attrited Customer,709611183,40,High School,F,Less than $40K,Married,0,3952,41,3,31,0%
+Blue,Retained Customers,789662283,50,High School,F,Less than $40K,Married,0,2140,50,3,33,0%
+Blue,Attrited Customer,714477408,30,High School,F,Less than $40K,Married,1340,2977,36,3,36,45%
+Blue,Attrited Customer,710727333,40,High School,F,Less than $40K,Married,0,1763,49,3,36,0%
+Blue,Retained Customers,718148358,50,High School,F,Less than $40K,Married,0,1572,50,3,36,0%
+Blue,Retained Customers,779859558,50,High School,F,Less than $40K,Married,1012,2452,54,3,38,41%
+Blue,Attrited Customer,713696808,40,High School,F,Less than $40K,Married,316,1801,46,3,39,18%
+Blue,Retained Customers,712434708,50,High School,F,Less than $40K,Married,2517,3302,52,3,39,76%
+Blue,Retained Customers,716307558,50,High School,F,Less than $40K,Married,1506,2897,50,3,40,52%
+Blue,Retained Customers,721527858,50,High School,F,Less than $40K,Married,1735,2003,52,3,40,87%
+Blue,Retained Customers,720941433,50,High School,F,Less than $40K,Married,0,1547,53,3,41,0%
+Blue,Attrited Customer,809626983,40,High School,F,Less than $40K,Married,0,1670,48,3,43,0%
+Blue,Attrited Customer,828294933,40,High School,F,Less than $40K,Married,2437,2951,49,3,45,83%
+Blue,Attrited Customer,718352358,40,Post-Graduate,F,Less than $40K,Married,0,1914,49,3,35,0%
+Blue,Retained Customers,708276183,50,Post-Graduate,F,Less than $40K,Married,0,1760,52,3,45,0%
+Blue,Attrited Customer,711433908,40,Unknown,F,Less than $40K,Married,0,9491,41,3,30,0%
+Blue,Attrited Customer,708831858,40,Unknown,F,Less than $40K,Married,1506,4579,43,3,30,33%
+Blue,Attrited Customer,717026658,40,Unknown,F,Less than $40K,Married,0,1897,43,3,32,0%
+Blue,Retained Customers,779333883,50,Unknown,F,Less than $40K,Married,0,7428,51,3,33,0%
+Blue,Attrited Customer,798481383,40,Unknown,F,Less than $40K,Married,0,2694,40,3,34,0%
+Blue,Attrited Customer,708384033,40,Unknown,F,Less than $40K,Married,2463,2745,45,3,35,90%
+Blue,Attrited Customer,713115483,40,Unknown,F,Less than $40K,Married,0,1684,44,3,36,0%
+Blue,Attrited Customer,716977758,40,Unknown,F,Less than $40K,Married,2517,3675,44,3,36,69%
+Blue,Attrited Customer,708323208,40,Unknown,F,Less than $40K,Married,0,1522,49,3,36,0%
+Blue,Attrited Customer,790119408,40,Unknown,F,Less than $40K,Married,0,4960,48,3,41,0%
+Blue,Retained Customers,812247033,50,Unknown,F,Less than $40K,Married,0,3536,51,3,46,0%
+Blue,Attrited Customer,711918033,30,Unknown,F,Less than $40K,Married,1074,1468,37,3,17,73%
+Blue,Attrited Customer,711298458,30,Unknown,F,Less than $40K,Married,0,2190,39,3,26,0%
+Blue,Attrited Customer,712812408,40,Unknown,F,Less than $40K,Married,0,1535,40,3,28,0%
+Blue,Attrited Customer,772407333,40,Unknown,F,Less than $40K,Married,0,1654,41,3,30,0%
+Blue,Attrited Customer,719604858,40,Unknown,F,Less than $40K,Married,0,5941,45,3,31,0%
+Blue,Attrited Customer,714287583,40,Unknown,F,Less than $40K,Married,0,1438.3,41,3,32,0%
+Blue,Attrited Customer,788835408,40,Unknown,F,Less than $40K,Married,0,2910,49,3,33,0%
+Blue,Attrited Customer,708386958,40,Unknown,F,Less than $40K,Married,0,1561,47,3,34,0%
+Blue,Attrited Customer,716122008,40,Unknown,F,Less than $40K,Married,0,1855,44,3,35,0%
+Blue,Attrited Customer,709145958,40,Unknown,F,Less than $40K,Married,1002,2440,43,3,36,41%
+Blue,Attrited Customer,708498033,40,Unknown,F,Less than $40K,Married,1837,2279,44,3,36,81%
+Blue,Retained Customers,714614133,50,Unknown,F,Less than $40K,Married,0,2819,53,3,36,0%
+Blue,Attrited Customer,787665258,40,Unknown,F,Less than $40K,Married,0,1438.3,47,3,37,0%
+Blue,Attrited Customer,711487533,40,Unknown,F,Less than $40K,Married,0,1438.3,47,3,38,0%
+Blue,Attrited Customer,713011683,30,College,F,Unknown,Married,0,11239,37,3,24,0%
+Blue,Attrited Customer,713437008,40,Graduate,F,Unknown,Married,1878,6888,40,3,25,27%
+Blue,Attrited Customer,711092658,30,Graduate,F,Unknown,Married,855,4376,39,3,26,20%
+Blue,Attrited Customer,716112933,30,Graduate,F,Unknown,Married,592,1575,39,3,36,38%
+Blue,Attrited Customer,716127333,40,Graduate,F,Unknown,Married,484,18432,45,3,36,3%
+Blue,Attrited Customer,708108333,40,Graduate,F,Unknown,Married,0,5590,47,3,36,0%
+Blue,Retained Customers,720296808,50,Graduate,F,Unknown,Married,1771,4173,52,3,39,42%
+Blue,Attrited Customer,809559933,40,Graduate,F,Unknown,Married,706,4462,45,3,40,16%
+Blue,Attrited Customer,767668908,40,Graduate,F,Unknown,Married,1836,13095,46,3,40,14%
+Blue,Retained Customers,711144183,50,Graduate,F,Unknown,Married,1848,2815,55,3,45,66%
+Blue,Attrited Customer,762020133,30,High School,F,Unknown,Married,0,9874,37,3,30,0%
+Blue,Attrited Customer,711334983,40,High School,F,Unknown,Married,0,26229,41,3,32,0%
+Blue,Attrited Customer,710292333,40,High School,F,Unknown,Married,0,7772,44,3,36,0%
+Blue,Attrited Customer,708223383,40,High School,F,Unknown,Married,979,11410,47,3,39,9%
+Blue,Attrited Customer,718259433,40,High School,F,Unknown,Married,0,8383,45,3,40,0%
+Blue,Retained Customers,802460433,50,High School,F,Unknown,Married,0,1438.3,57,3,51,0%
+Blue,Attrited Customer,712790358,30,Unknown,F,Unknown,Married,1348,3023,39,3,30,45%
+Blue,Attrited Customer,718806783,40,Unknown,F,Unknown,Married,357,2872,46,3,36,12%
+Blue,Retained Customers,710406633,50,Unknown,F,Unknown,Married,0,3664,51,3,36,0%
+Blue,Attrited Customer,803124408,40,Unknown,F,Unknown,Married,0,11538,41,3,35,0%
+Blue,Attrited Customer,710411358,30,College,F,$40K - $60K,Married,2199,7596,39,4,28,29%
+Blue,Attrited Customer,789122808,40,College,F,$40K - $60K,Married,0,3281,41,4,29,0%
+Blue,Attrited Customer,715904433,40,College,F,$40K - $60K,Married,0,1695,42,4,34,0%
+Blue,Attrited Customer,710524533,30,College,F,$40K - $60K,Married,2517,4913,38,4,36,51%
+Blue,Attrited Customer,820276908,40,College,F,$40K - $60K,Married,0,4139,42,4,37,0%
+Blue,Attrited Customer,806914158,30,Graduate,F,$40K - $60K,Married,0,4047,38,4,33,0%
+Blue,Attrited Customer,714164808,40,Graduate,F,$40K - $60K,Married,0,2918,42,4,33,0%
+Blue,Attrited Customer,708684108,40,Graduate,F,$40K - $60K,Married,1446,4152,46,4,34,35%
+Blue,Attrited Customer,715487733,40,Graduate,F,$40K - $60K,Married,0,1452,44,4,36,0%
+Blue,Attrited Customer,815315058,40,High School,F,$40K - $60K,Married,0,1438.3,48,4,43,0%
+Blue,Attrited Customer,717390408,40,Unknown,F,$40K - $60K,Married,0,4167,49,4,36,0%
+Blue,Attrited Customer,708373083,40,Unknown,F,$40K - $60K,Married,2517,3356,40,4,30,75%
+Blue,Attrited Customer,718296558,40,Unknown,F,$40K - $60K,Married,1327,1691,44,4,31,79%
+Blue,Attrited Customer,711456108,40,Unknown,F,$40K - $60K,Married,819,1438.3,46,4,39,57%
+Blue,Attrited Customer,714443058,40,College,F,Less than $40K,Married,0,1484,43,4,28,0%
+Blue,Attrited Customer,713585958,40,College,F,Less than $40K,Married,0,5997,48,4,36,0%
+Blue,Attrited Customer,708972783,40,College,F,Less than $40K,Married,0,1745,48,4,37,0%
+Blue,Attrited Customer,709581483,40,Doctorate,F,Less than $40K,Married,2517,2984,40,4,21,84%
+Blue,Attrited Customer,779310033,40,Doctorate,F,Less than $40K,Married,0,4304,42,4,24,0%
+Blue,Attrited Customer,718890933,40,Doctorate,F,Less than $40K,Married,0,1438.3,45,4,27,0%
+Blue,Attrited Customer,709079883,40,Doctorate,F,Less than $40K,Married,1012,1663,45,4,36,61%
+Blue,Retained Customers,718311933,50,Doctorate,F,Less than $40K,Married,2517,3719,53,4,37,68%
+Blue,Attrited Customer,721003008,30,Graduate,F,Less than $40K,Married,2517,3261,36,4,24,77%
+Blue,Attrited Customer,794554683,40,Graduate,F,Less than $40K,Married,0,3159,41,4,26,0%
+Blue,Attrited Customer,720520308,40,Graduate,F,Less than $40K,Married,2517,8318,46,4,28,30%
+Blue,Retained Customers,712446783,50,Graduate,F,Less than $40K,Married,1530,4038,50,4,30,38%
+Blue,Attrited Customer,715514133,40,Graduate,F,Less than $40K,Married,0,2184,44,4,31,0%
+Blue,Attrited Customer,711430908,40,Graduate,F,Less than $40K,Married,0,1438.3,45,4,34,0%
+Blue,Attrited Customer,712795833,30,Graduate,F,Less than $40K,Married,2517,5021,34,4,36,50%
+Blue,Attrited Customer,714424533,40,Graduate,F,Less than $40K,Married,0,1655,41,4,36,0%
+Blue,Attrited Customer,714006333,40,Graduate,F,Less than $40K,Married,528,2128,42,4,36,25%
+Blue,Attrited Customer,719590458,40,Graduate,F,Less than $40K,Married,0,1905,44,4,36,0%
+Blue,Retained Customers,713730933,50,Graduate,F,Less than $40K,Married,0,1438.3,53,4,36,0%
+Blue,Retained Customers,714941358,50,Graduate,F,Less than $40K,Married,0,4005,53,4,36,0%
+Blue,Retained Customers,778720533,50,Graduate,F,Less than $40K,Married,0,1722,53,4,37,0%
+Blue,Attrited Customer,716855058,40,Graduate,F,Less than $40K,Married,0,1757,49,4,38,0%
+Blue,Attrited Customer,741517458,40,Graduate,F,Less than $40K,Married,2517,2575,49,4,42,98%
+Blue,Attrited Customer,717748608,30,High School,F,Less than $40K,Married,872,1555,35,4,24,56%
+Blue,Attrited Customer,720655833,40,High School,F,Less than $40K,Married,0,2913,48,4,30,0%
+Blue,Attrited Customer,789328083,40,High School,F,Less than $40K,Married,0,3454,42,4,32,0%
+Blue,Retained Customers,719630358,50,High School,F,Less than $40K,Married,0,3546,50,4,36,0%
+Blue,Retained Customers,710481333,50,High School,F,Less than $40K,Married,1614,2690,50,4,36,60%
+Blue,Retained Customers,719519058,50,High School,F,Less than $40K,Married,0,1477,55,4,36,0%
+Blue,Attrited Customer,712783083,40,High School,F,Less than $40K,Married,0,3607,48,4,37,0%
+Blue,Retained Customers,719740008,50,High School,F,Less than $40K,Married,940,2791,51,4,41,34%
+Blue,Attrited Customer,714013983,30,Post-Graduate,F,Less than $40K,Married,0,1586,37,4,36,0%
+Blue,Attrited Customer,713957283,40,Unknown,F,Less than $40K,Married,0,3214,42,4,23,0%
+Blue,Attrited Customer,718504233,40,Unknown,F,Less than $40K,Married,1794,2082,43,4,30,86%
+Blue,Attrited Customer,714484008,40,Unknown,F,Less than $40K,Married,0,1567,49,4,31,0%
+Blue,Attrited Customer,721351983,40,Unknown,F,Less than $40K,Married,2517,3492,43,4,36,72%
+Blue,Attrited Customer,714492783,40,Unknown,F,Less than $40K,Married,0,1438.3,46,4,36,0%
+Blue,Attrited Customer,719894433,40,Unknown,F,Less than $40K,Married,951,1679,43,4,24,57%
+Blue,Attrited Customer,710211783,30,Unknown,F,Less than $40K,Married,0,1438.3,38,4,26,0%
+Blue,Attrited Customer,711234783,40,Unknown,F,Less than $40K,Married,0,2020,44,4,28,0%
+Blue,Attrited Customer,709283358,40,Unknown,F,Less than $40K,Married,0,2895,43,4,29,0%
+Blue,Attrited Customer,716600733,40,Unknown,F,Less than $40K,Married,228,2033,47,4,36,11%
+Blue,Attrited Customer,720742083,40,Unknown,F,Less than $40K,Married,2425,2740,48,4,36,89%
+Blue,Retained Customers,716331408,50,Unknown,F,Less than $40K,Married,0,2143,52,4,36,0%
+Blue,Attrited Customer,782802033,40,Unknown,F,Less than $40K,Married,1472,3411,45,4,39,43%
+Blue,Attrited Customer,711531858,40,Unknown,F,Less than $40K,Married,1267,2447,48,4,41,52%
+Blue,Retained Customers,712947333,50,Unknown,F,Less than $40K,Married,0,5139,54,4,43,0%
+Blue,Attrited Customer,720551733,40,Doctorate,F,Unknown,Married,0,15195,46,4,26,0%
+Blue,Attrited Customer,718452633,30,Graduate,F,Unknown,Married,0,1931,35,4,36,0%
+Blue,Attrited Customer,709987683,40,Graduate,F,Unknown,Married,0,2286,46,4,36,0%
+Blue,Retained Customers,772442883,50,Graduate,F,Unknown,Married,696,3853,51,4,41,18%
+Blue,Retained Customers,823548858,50,Graduate,F,Unknown,Married,330,10533,53,4,49,3%
+Blue,Retained Customers,714246333,50,High School,F,Unknown,Married,1803,5396,58,4,48,33%
+Blue,Attrited Customer,818699208,40,Post-Graduate,F,Unknown,Married,0,6451,47,4,42,0%
+Blue,Attrited Customer,714237033,40,Unknown,F,Unknown,Married,2246,5557,42,4,36,40%
+Blue,Attrited Customer,778863258,40,Unknown,F,Unknown,Married,0,6030,46,4,27,0%
+Blue,Attrited Customer,712578933,30,High School,F,$40K - $60K,Married,0,1438.3,35,5,25,0%
+Blue,Attrited Customer,787529583,40,Unknown,F,$40K - $60K,Married,0,1588,41,5,30,0%
+Blue,Attrited Customer,716099958,30,Unknown,F,$40K - $60K,Married,1867,3333,39,5,31,56%
+Blue,Attrited Customer,717001908,40,Graduate,F,Less than $40K,Married,0,6936,41,5,28,0%
+Blue,Attrited Customer,771045708,40,Graduate,F,Less than $40K,Married,970,1504,41,5,28,65%
+Blue,Attrited Customer,715485483,30,Graduate,F,Less than $40K,Married,0,3664,39,5,36,0%
+Blue,Attrited Customer,717242058,40,Graduate,F,Less than $40K,Married,0,3981,43,5,39,0%
+Blue,Attrited Customer,716373483,40,Graduate,F,Less than $40K,Married,2517,2860,48,5,40,88%
+Blue,Attrited Customer,715328658,40,Post-Graduate,F,Less than $40K,Married,0,1495,41,5,36,0%
+Blue,Retained Customers,720328983,50,Unknown,F,Less than $40K,Married,0,9611,52,5,36,0%
+Blue,Attrited Customer,812671758,40,Doctorate,F,Unknown,Married,2176,4345,47,5,42,50%
+Blue,Attrited Customer,771544533,40,High School,F,Unknown,Married,0,3578,42,5,30,0%
+Blue,Retained Customers,711886383,50,High School,F,Unknown,Married,605,5342,54,5,44,11%
+Gold,Attrited Customer,708369633,30,Graduate,F,Less than $40K,Married,1847,15487,34,3,36,12%
+Gold,Attrited Customer,717571683,40,Unknown,F,$40K - $60K,Married,0,23981,47,4,34,0%
+Platinum,Retained Customers,708654933,50,Doctorate,F,Less than $40K,Married,193,15987,51,2,42,1%
+Silver,Attrited Customer,812979408,30,Unknown,F,$40K - $60K,Married,0,15142,39,0,34,0%
+Silver,Attrited Customer,708385533,40,Graduate,F,Less than $40K,Married,0,11059,49,1,36,0%
+Silver,Retained Customers,794965233,50,Graduate,F,Less than $40K,Married,781,13199,51,1,45,6%
+Silver,Retained Customers,759584958,50,Graduate,F,Unknown,Married,2418,33004,51,1,44,7%
+Silver,Attrited Customer,714337233,40,Graduate,F,Less than $40K,Married,1961,10388,43,2,25,19%
+Silver,Retained Customers,717898758,50,Graduate,F,Less than $40K,Married,0,12207,55,2,45,0%
+Silver,Attrited Customer,780042633,30,Unknown,F,Unknown,Married,0,31718,37,2,21,0%
+Silver,Attrited Customer,712582983,40,Graduate,F,Less than $40K,Married,1381,14057,47,3,36,10%
+Silver,Attrited Customer,771028533,40,Post-Graduate,F,Less than $40K,Married,0,10357,48,3,35,0%
+Silver,Attrited Customer,809464608,40,High School,F,Unknown,Married,2517,34516,47,3,31,7%
+Silver,Attrited Customer,770842833,40,High School,F,Unknown,Married,1273,34516,49,3,36,4%
+Silver,Retained Customers,712941483,50,Post-Graduate,F,$40K - $60K,Married,0,3735,51,4,43,0%
+Silver,Attrited Customer,803216433,40,Graduate,F,Less than $40K,Married,2517,14806,43,5,33,17%
+Blue,Attrited Customer,712767858,40,College,F,$40K - $60K,Single,1223,1438.3,42,0,30,85%
+Blue,Attrited Customer,817889583,60,Graduate,F,$40K - $60K,Single,0,9721,61,0,56,0%
+Blue,Attrited Customer,778708533,20,High School,F,$40K - $60K,Single,1616,1730,26,0,13,93%
+Blue,Attrited Customer,815085708,60,High School,F,$40K - $60K,Single,2517,10882,60,0,55,23%
+Blue,Attrited Customer,779130108,30,Unknown,F,$40K - $60K,Single,0,1438.3,33,0,15,0%
+Blue,Retained Customers,719759733,50,Unknown,F,$40K - $60K,Single,0,1852,59,0,52,0%
+Blue,Retained Customers,715366083,50,Doctorate,F,Less than $40K,Single,978,1438.3,52,0,36,68%
+Blue,Retained Customers,712327608,50,Doctorate,F,Less than $40K,Single,0,2708,54,0,36,0%
+Blue,Retained Customers,716510658,50,Doctorate,F,Less than $40K,Single,2353,2595,50,0,38,91%
+Blue,Attrited Customer,789713208,60,Doctorate,F,Less than $40K,Single,326,2936,62,0,50,11%
+Blue,Attrited Customer,716107158,30,Graduate,F,Less than $40K,Single,431,3983,32,0,20,11%
+Blue,Attrited Customer,715630983,30,Graduate,F,Less than $40K,Single,0,4598,31,0,21,0%
+Blue,Attrited Customer,709785783,30,Graduate,F,Less than $40K,Single,0,2300,35,0,25,0%
+Blue,Attrited Customer,713422083,30,Graduate,F,Less than $40K,Single,0,1574,30,0,36,0%
+Blue,Attrited Customer,714919308,30,Graduate,F,Less than $40K,Single,0,8135,32,0,36,0%
+Blue,Attrited Customer,712953483,60,Graduate,F,Less than $40K,Single,0,1682,64,0,36,0%
+Blue,Retained Customers,713370033,50,Graduate,F,Less than $40K,Single,0,1438.3,53,0,40,0%
+Blue,Retained Customers,713512308,50,Graduate,F,Less than $40K,Single,0,3423,50,0,41,0%
+Blue,Retained Customers,712267983,50,Graduate,F,Less than $40K,Single,2517,3023,57,0,45,83%
+Blue,Attrited Customer,817977933,60,Graduate,F,Less than $40K,Single,1531,1931,63,0,56,79%
+Blue,Attrited Customer,717489033,20,High School,F,Less than $40K,Single,0,1438.3,27,0,18,0%
+Blue,Attrited Customer,780038058,30,High School,F,Less than $40K,Single,0,1556,38,0,22,0%
+Blue,Attrited Customer,713336883,60,High School,F,Less than $40K,Single,0,1760,61,0,36,0%
+Blue,Retained Customers,720930633,50,High School,F,Less than $40K,Single,0,1977,58,0,46,0%
+Blue,Attrited Customer,789777408,20,Post-Graduate,F,Less than $40K,Single,1428,1442,26,0,15,99%
+Blue,Attrited Customer,804668658,20,Unknown,F,Less than $40K,Single,0,1438.3,26,0,20,0%
+Blue,Attrited Customer,710161083,60,Unknown,F,Less than $40K,Single,0,5780,62,0,36,0%
+Blue,Attrited Customer,812411058,40,Unknown,F,Less than $40K,Single,0,2094,49,0,44,0%
+Blue,Attrited Customer,780105483,60,Unknown,F,Less than $40K,Single,377,1697,65,0,50,22%
+Blue,Attrited Customer,711724083,20,Unknown,F,Less than $40K,Single,1647,1835,27,0,16,90%
+Blue,Attrited Customer,712445583,30,College,F,Unknown,Single,0,2299,33,0,15,0%
+Blue,Attrited Customer,710586483,20,High School,F,Unknown,Single,0,6152,26,0,13,0%
+Blue,Attrited Customer,711745233,30,High School,F,Unknown,Single,0,13894,30,0,22,0%
+Blue,Attrited Customer,708563433,60,High School,F,Unknown,Single,477,5894,65,0,56,8%
+Blue,Retained Customers,708733983,50,Doctorate,F,$40K - $60K,Single,2391,5349,50,1,36,45%
+Blue,Retained Customers,720590058,50,Graduate,F,$40K - $60K,Single,1794,8840,51,1,36,20%
+Blue,Retained Customers,709338633,50,Graduate,F,$40K - $60K,Single,0,2339,56,1,37,0%
+Blue,Attrited Customer,769053033,40,Graduate,F,$40K - $60K,Single,2517,4142,44,1,38,61%
+Blue,Attrited Customer,787974108,30,High School,F,$40K - $60K,Single,792,1793,37,1,27,44%
+Blue,Attrited Customer,813804783,40,High School,F,$40K - $60K,Single,0,2667,41,1,36,0%
+Blue,Retained Customers,710116833,50,High School,F,$40K - $60K,Single,0,1665,59,1,36,0%
+Blue,Retained Customers,821179233,50,Post-Graduate,F,$40K - $60K,Single,932,1493,50,1,46,62%
+Blue,Attrited Customer,720872433,30,Unknown,F,$40K - $60K,Single,0,3911,39,1,28,0%
+Blue,Attrited Customer,719564208,40,Unknown,F,$40K - $60K,Single,0,7195,46,1,30,0%
+Blue,Attrited Customer,709170108,60,Unknown,F,$40K - $60K,Single,0,2425,60,1,41,0%
+Blue,Attrited Customer,720444408,30,College,F,Less than $40K,Single,1791,2231,35,1,25,80%
+Blue,Attrited Customer,814091058,30,College,F,Less than $40K,Single,2517,3119,38,1,33,81%
+Blue,Attrited Customer,719694408,30,College,F,Less than $40K,Single,0,4541,30,1,36,0%
+Blue,Retained Customers,772073508,50,College,F,Less than $40K,Single,0,1764,52,1,41,0%
+Blue,Retained Customers,780496833,50,College,F,Less than $40K,Single,0,2846,56,1,43,0%
+Blue,Retained Customers,766021083,50,College,F,Less than $40K,Single,546,2114,55,1,48,26%
+Blue,Retained Customers,718732833,50,College,F,Less than $40K,Single,1763,2783,56,1,48,63%
+Blue,Attrited Customer,779134458,30,Doctorate,F,Less than $40K,Single,1180,3709,33,1,15,32%
+Blue,Retained Customers,717336408,50,Doctorate,F,Less than $40K,Single,1411,1952,51,1,45,72%
+Blue,Attrited Customer,710751033,30,Graduate,F,Less than $40K,Single,0,4829,31,1,13,0%
+Blue,Attrited Customer,710570058,40,Graduate,F,Less than $40K,Single,0,3101,44,1,25,0%
+Blue,Attrited Customer,721448283,30,Graduate,F,Less than $40K,Single,1536,1876,39,1,26,82%
+Blue,Attrited Customer,712664658,30,Graduate,F,Less than $40K,Single,0,1649,35,1,30,0%
+Blue,Retained Customers,778378983,50,Graduate,F,Less than $40K,Single,2152,2939,54,1,34,73%
+Blue,Attrited Customer,713788083,20,Graduate,F,Less than $40K,Single,0,1624,28,1,36,0%
+Blue,Attrited Customer,716625033,30,Graduate,F,Less than $40K,Single,0,2761,32,1,36,0%
+Blue,Attrited Customer,712235433,40,Graduate,F,Less than $40K,Single,0,2886,43,1,36,0%
+Blue,Retained Customers,708708858,50,Graduate,F,Less than $40K,Single,502,2422,50,1,36,21%
+Blue,Retained Customers,716564433,50,Graduate,F,Less than $40K,Single,0,4287,53,1,36,0%
+Blue,Retained Customers,720725058,50,Graduate,F,Less than $40K,Single,0,7176,51,1,37,0%
+Blue,Attrited Customer,755467683,40,Graduate,F,Less than $40K,Single,482,3001,48,1,41,16%
+Blue,Retained Customers,709259958,50,Graduate,F,Less than $40K,Single,2517,5541,53,1,44,45%
+Blue,Retained Customers,789963033,50,Graduate,F,Less than $40K,Single,0,1438.3,54,1,45,0%
+Blue,Retained Customers,809565183,50,Graduate,F,Less than $40K,Single,625,1842,52,1,47,34%
+Blue,Retained Customers,712144158,50,Graduate,F,Less than $40K,Single,1166,2370,53,1,48,49%
+Blue,Retained Customers,717646983,50,Graduate,F,Less than $40K,Single,424,3214,59,1,49,13%
+Blue,Retained Customers,717146208,50,Graduate,F,Less than $40K,Single,2517,4257,59,1,51,59%
+Blue,Attrited Customer,798553158,60,Graduate,F,Less than $40K,Single,0,3109,62,1,56,0%
+Blue,Attrited Customer,719742108,30,High School,F,Less than $40K,Single,0,3554,38,1,26,0%
+Blue,Retained Customers,716669658,50,High School,F,Less than $40K,Single,1608,2006,51,1,33,80%
+Blue,Attrited Customer,713096583,40,High School,F,Less than $40K,Single,544,1438.3,40,1,36,38%
+Blue,Attrited Customer,708416433,40,High School,F,Less than $40K,Single,0,2372,41,1,36,0%
+Blue,Attrited Customer,712660308,40,High School,F,Less than $40K,Single,0,1895,44,1,36,0%
+Blue,Retained Customers,712257258,50,High School,F,Less than $40K,Single,0,1457,50,1,36,0%
+Blue,Retained Customers,712448658,50,High School,F,Less than $40K,Single,0,1795,52,1,36,0%
+Blue,Attrited Customer,711626658,60,High School,F,Less than $40K,Single,0,1930,62,1,36,0%
+Blue,Retained Customers,713425383,50,High School,F,Less than $40K,Single,1939,7484,59,1,46,26%
+Blue,Retained Customers,708885558,50,High School,F,Less than $40K,Single,0,3556,56,1,48,0%
+Blue,Retained Customers,718297683,50,High School,F,Less than $40K,Single,0,4085,59,1,50,0%
+Blue,Attrited Customer,711151383,30,Post-Graduate,F,Less than $40K,Single,347,2066,34,1,26,17%
+Blue,Retained Customers,779029458,50,Post-Graduate,F,Less than $40K,Single,0,1724,54,1,35,0%
+Blue,Attrited Customer,710438358,40,Unknown,F,Less than $40K,Single,0,3241,42,1,35,0%
+Blue,Attrited Customer,710666583,20,Unknown,F,Less than $40K,Single,2312,2516,29,1,36,92%
+Blue,Attrited Customer,714887808,40,Unknown,F,Less than $40K,Single,0,1818,43,1,36,0%
+Blue,Retained Customers,711116133,50,Unknown,F,Less than $40K,Single,0,1838,50,1,37,0%
+Blue,Retained Customers,779348358,50,Unknown,F,Less than $40K,Single,0,1717,52,1,37,0%
+Blue,Retained Customers,717174558,50,Unknown,F,Less than $40K,Single,0,9129,57,1,46,0%
+Blue,Retained Customers,803113383,50,Unknown,F,Less than $40K,Single,0,3292,55,1,49,0%
+Blue,Attrited Customer,712479633,30,Unknown,F,Less than $40K,Single,0,1695,31,1,20,0%
+Blue,Attrited Customer,719174433,30,Unknown,F,Less than $40K,Single,0,1735,36,1,24,0%
+Blue,Retained Customers,715410783,50,Unknown,F,Less than $40K,Single,572,1836,55,1,36,31%
+Blue,Attrited Customer,714377058,60,Unknown,F,Less than $40K,Single,0,1896,63,1,36,0%
+Blue,Attrited Customer,715406658,40,Unknown,F,Less than $40K,Single,596,2173,47,1,37,27%
+Blue,Attrited Customer,720824883,40,Unknown,F,Less than $40K,Single,2517,3251,48,1,40,77%
+Blue,Retained Customers,709435533,50,Unknown,F,Less than $40K,Single,0,3099,53,1,41,0%
+Blue,Retained Customers,712611108,50,Unknown,F,Less than $40K,Single,2517,7501,59,1,53,34%
+Blue,Attrited Customer,737921733,60,Unknown,F,Less than $40K,Single,1604,1892,62,1,55,85%
+Blue,Retained Customers,821889858,50,Doctorate,F,Unknown,Single,1477,1970,50,1,46,75%
+Blue,Retained Customers,708316008,50,Graduate,F,Unknown,Single,0,10031,59,1,36,0%
+Blue,Retained Customers,720719883,50,Graduate,F,Unknown,Single,0,1874,54,1,41,0%
+Blue,Retained Customers,768632958,50,Graduate,F,Unknown,Single,1091,8708,59,1,49,13%
+Blue,Retained Customers,709971708,50,High School,F,Unknown,Single,0,9701,51,1,41,0%
+Blue,Retained Customers,715405758,50,High School,F,Unknown,Single,0,10057,50,1,42,0%
+Blue,Attrited Customer,716697708,60,High School,F,Unknown,Single,0,3293,61,1,52,0%
+Blue,Attrited Customer,713668158,30,Unknown,F,Unknown,Single,0,21067,31,1,36,0%
+Blue,Attrited Customer,772394883,60,Unknown,F,Unknown,Single,0,7359,60,1,50,0%
+Blue,Attrited Customer,714634983,40,Unknown,F,Unknown,Single,0,3517,44,1,36,0%
+Blue,Retained Customers,709714008,50,Unknown,F,Unknown,Single,0,9248,50,1,39,0%
+Blue,Retained Customers,708376983,50,Unknown,F,Unknown,Single,799,8513,58,1,50,9%
+Blue,Attrited Customer,794507133,30,Doctorate,F,$40K - $60K,Single,0,1900,37,2,18,0%
+Blue,Attrited Customer,715773783,40,Graduate,F,$40K - $60K,Single,561,4196,44,2,35,13%
+Blue,Retained Customers,714346608,50,Graduate,F,$40K - $60K,Single,0,1495,51,2,36,0%
+Blue,Retained Customers,712901283,50,Graduate,F,$40K - $60K,Single,0,2121,53,2,36,0%
+Blue,Attrited Customer,719602908,40,Post-Graduate,F,$40K - $60K,Single,812,5667,42,2,34,14%
+Blue,Retained Customers,770024733,50,Unknown,F,$40K - $60K,Single,0,1699,53,2,47,0%
+Blue,Attrited Customer,719986758,40,Unknown,F,$40K - $60K,Single,0,3001,46,2,33,0%
+Blue,Attrited Customer,714119283,40,Unknown,F,$40K - $60K,Single,0,2516,42,2,34,0%
+Blue,Retained Customers,717072108,50,Unknown,F,$40K - $60K,Single,0,2762,50,2,36,0%
+Blue,Retained Customers,778899708,50,Unknown,F,$40K - $60K,Single,0,2963,56,2,37,0%
+Blue,Attrited Customer,798972183,40,Unknown,F,$40K - $60K,Single,526,1643,49,2,43,32%
+Blue,Attrited Customer,718653333,40,College,F,Less than $40K,Single,0,1833,45,2,33,0%
+Blue,Attrited Customer,712900308,40,College,F,Less than $40K,Single,0,1751,44,2,34,0%
+Blue,Attrited Customer,714361083,40,College,F,Less than $40K,Single,0,5989,40,2,36,0%
+Blue,Retained Customers,827476983,50,College,F,Less than $40K,Single,2178,3639,56,2,52,60%
+Blue,Retained Customers,711507783,50,Doctorate,F,Less than $40K,Single,0,1694,54,2,42,0%
+Blue,Attrited Customer,710136258,30,Graduate,F,Less than $40K,Single,0,1806,33,2,24,0%
+Blue,Attrited Customer,708154833,30,Graduate,F,Less than $40K,Single,811,1438.3,39,2,27,56%
+Blue,Attrited Customer,709566408,40,Graduate,F,Less than $40K,Single,0,4458,40,2,30,0%
+Blue,Attrited Customer,720141408,40,Graduate,F,Less than $40K,Single,951,5456,49,2,31,17%
+Blue,Attrited Customer,803028858,30,Graduate,F,Less than $40K,Single,0,3775,38,2,32,0%
+Blue,Attrited Customer,779183958,40,Graduate,F,Less than $40K,Single,0,1492,45,2,33,0%
+Blue,Attrited Customer,708266883,30,Graduate,F,Less than $40K,Single,0,1666,34,2,36,0%
+Blue,Attrited Customer,714972558,30,Graduate,F,Less than $40K,Single,0,1610,37,2,36,0%
+Blue,Attrited Customer,709495833,40,Graduate,F,Less than $40K,Single,0,1438.3,44,2,36,0%
+Blue,Attrited Customer,716382708,40,Graduate,F,Less than $40K,Single,858,8309,46,2,36,10%
+Blue,Attrited Customer,807946833,40,Graduate,F,Less than $40K,Single,0,1791,44,2,39,0%
+Blue,Attrited Customer,715162608,40,Graduate,F,Less than $40K,Single,1323,2168,48,2,41,61%
+Blue,Retained Customers,739594758,50,Graduate,F,Less than $40K,Single,2517,3181,51,2,44,79%
+Blue,Retained Customers,768624258,50,Graduate,F,Less than $40K,Single,234,1583,55,2,49,15%
+Blue,Attrited Customer,716924958,60,Graduate,F,Less than $40K,Single,1926,6812,65,2,56,28%
+Blue,Attrited Customer,719821908,30,High School,F,Less than $40K,Single,0,2703,38,2,16,0%
+Blue,Attrited Customer,708692583,40,High School,F,Less than $40K,Single,168,1506,44,2,31,11%
+Blue,Attrited Customer,809616108,30,High School,F,Less than $40K,Single,0,1568,38,2,33,0%
+Blue,Attrited Customer,767266758,40,High School,F,Less than $40K,Single,0,1661,41,2,34,0%
+Blue,Attrited Customer,721274208,40,High School,F,Less than $40K,Single,2104,2201,41,2,36,96%
+Blue,Retained Customers,719098308,50,High School,F,Less than $40K,Single,268,2423,56,2,42,11%
+Blue,Retained Customers,720891633,50,High School,F,Less than $40K,Single,0,3199,53,2,46,0%
+Blue,Attrited Customer,769152783,60,High School,F,Less than $40K,Single,1811,8141,60,2,54,22%
+Blue,Attrited Customer,717409533,30,Post-Graduate,F,Less than $40K,Single,1486,1821,36,2,26,82%
+Blue,Retained Customers,716317458,50,Post-Graduate,F,Less than $40K,Single,0,4281,51,2,36,0%
+Blue,Attrited Customer,721308033,40,Post-Graduate,F,Less than $40K,Single,2517,3036,45,2,37,83%
+Blue,Retained Customers,713347608,50,Post-Graduate,F,Less than $40K,Single,0,4917,54,2,43,0%
+Blue,Attrited Customer,713114133,40,Unknown,F,Less than $40K,Single,0,1443,42,2,23,0%
+Blue,Attrited Customer,720766908,40,Unknown,F,Less than $40K,Single,0,3021,40,2,28,0%
+Blue,Attrited Customer,709064208,40,Unknown,F,Less than $40K,Single,275,1628,43,2,32,17%
+Blue,Attrited Customer,719751483,30,Unknown,F,Less than $40K,Single,576,1438.3,39,2,36,40%
+Blue,Attrited Customer,714727833,40,Unknown,F,Less than $40K,Single,2517,2892,41,2,36,87%
+Blue,Retained Customers,712927383,50,Unknown,F,Less than $40K,Single,642,1438.3,51,2,36,45%
+Blue,Retained Customers,780067158,50,Unknown,F,Less than $40K,Single,1107,1746,51,2,36,63%
+Blue,Retained Customers,717371583,50,Unknown,F,Less than $40K,Single,400,1883,56,2,36,21%
+Blue,Attrited Customer,716271183,40,Unknown,F,Less than $40K,Single,0,8924,45,2,37,0%
+Blue,Retained Customers,711977508,50,Unknown,F,Less than $40K,Single,1211,1440,56,2,43,84%
+Blue,Retained Customers,755996583,50,Unknown,F,Less than $40K,Single,0,2475,57,2,50,0%
+Blue,Retained Customers,711474333,50,Unknown,F,Less than $40K,Single,0,1614,57,2,51,0%
+Blue,Attrited Customer,771723408,30,Unknown,F,Less than $40K,Single,0,1690,37,2,25,0%
+Blue,Attrited Customer,711161133,30,Unknown,F,Less than $40K,Single,0,6071,36,2,36,0%
+Blue,Attrited Customer,711939558,30,Unknown,F,Less than $40K,Single,0,1534,37,2,36,0%
+Blue,Attrited Customer,713891133,40,Unknown,F,Less than $40K,Single,834,1438.3,41,2,36,58%
+Blue,Attrited Customer,712733958,40,Unknown,F,Less than $40K,Single,0,1731,46,2,36,0%
+Blue,Retained Customers,714948858,50,Unknown,F,Less than $40K,Single,2517,3647,50,2,36,69%
+Blue,Retained Customers,715194183,50,Unknown,F,Less than $40K,Single,411,2575,53,2,36,16%
+Blue,Retained Customers,708681708,50,Unknown,F,Less than $40K,Single,0,3245,51,2,43,0%
+Blue,Retained Customers,712136058,50,College,F,Unknown,Single,0,8827,54,2,36,0%
+Blue,Retained Customers,823904133,50,College,F,Unknown,Single,0,10195,53,2,49,0%
+Blue,Retained Customers,796083783,50,College,F,Unknown,Single,0,1438.3,55,2,49,0%
+Blue,Attrited Customer,711102858,40,Doctorate,F,Unknown,Single,860,3137,48,2,36,27%
+Blue,Attrited Customer,717461283,30,Graduate,F,Unknown,Single,570,2214,38,2,24,26%
+Blue,Attrited Customer,771865908,40,Graduate,F,Unknown,Single,487,11750,48,2,37,4%
+Blue,Attrited Customer,738899658,40,Graduate,F,Unknown,Single,2517,3120,45,2,38,81%
+Blue,Retained Customers,716199408,50,Graduate,F,Unknown,Single,2517,3608,52,2,41,70%
+Blue,Attrited Customer,709100283,30,High School,F,Unknown,Single,2517,5956,36,2,26,42%
+Blue,Attrited Customer,710729358,40,High School,F,Unknown,Single,0,6479,40,2,30,0%
+Blue,Attrited Customer,809440008,30,High School,F,Unknown,Single,550,2069,39,2,34,27%
+Blue,Retained Customers,712294083,50,High School,F,Unknown,Single,0,3778,54,2,44,0%
+Blue,Attrited Customer,715530258,40,Post-Graduate,F,Unknown,Single,2517,4848,46,2,37,52%
+Blue,Attrited Customer,713594883,40,Unknown,F,Unknown,Single,849,1486,44,2,32,57%
+Blue,Retained Customers,709563258,50,Unknown,F,Unknown,Single,2253,2751,50,2,41,82%
+Blue,Attrited Customer,720007383,40,Unknown,F,Unknown,Single,2517,4411,41,2,28,57%
+Blue,Retained Customers,710661333,50,Unknown,F,Unknown,Single,1545,10241,55,2,36,15%
+Blue,Attrited Customer,738627708,40,Unknown,F,Unknown,Single,0,5984,49,2,41,0%
+Blue,Retained Customers,720519333,50,Unknown,F,Unknown,Single,1885,2721,59,2,45,69%
+Blue,Attrited Customer,788941983,30,Graduate,F,$40K - $60K,Single,0,2013,36,3,22,0%
+Blue,Attrited Customer,711846183,30,Graduate,F,$40K - $60K,Single,0,2669,38,3,26,0%
+Blue,Attrited Customer,711221958,40,Graduate,F,$40K - $60K,Single,0,2867,43,3,26,0%
+Blue,Attrited Customer,780201633,40,Graduate,F,$40K - $60K,Single,1154,5655,41,3,31,20%
+Blue,Attrited Customer,708726708,40,Graduate,F,$40K - $60K,Single,599,1451,42,3,36,41%
+Blue,Retained Customers,771342183,50,Graduate,F,$40K - $60K,Single,0,1625,53,3,40,0%
+Blue,Attrited Customer,755661933,40,Graduate,F,$40K - $60K,Single,671,1899,48,3,41,35%
+Blue,Attrited Customer,713569158,40,High School,F,$40K - $60K,Single,1474,1654,43,3,34,89%
+Blue,Retained Customers,799239033,50,High School,F,$40K - $60K,Single,0,1714,53,3,47,0%
+Blue,Retained Customers,778601733,50,High School,F,$40K - $60K,Single,1689,2687,55,3,47,63%
+Blue,Attrited Customer,709444983,30,Unknown,F,$40K - $60K,Single,2432,2435,38,3,30,100%
+Blue,Retained Customers,714276408,50,Unknown,F,$40K - $60K,Single,1445,1915,52,3,36,76%
+Blue,Attrited Customer,719449533,40,Unknown,F,$40K - $60K,Single,2283,2655,49,3,38,86%
+Blue,Attrited Customer,713717283,40,Unknown,F,$40K - $60K,Single,2332,2473,40,3,29,94%
+Blue,Retained Customers,721032633,50,Unknown,F,$40K - $60K,Single,1999,2496,55,3,32,80%
+Blue,Attrited Customer,807593058,40,Unknown,F,$40K - $60K,Single,0,5317,41,3,36,0%
+Blue,Retained Customers,719987733,50,Unknown,F,$40K - $60K,Single,0,5026,51,3,38,0%
+Blue,Attrited Customer,742865883,40,Unknown,F,$40K - $60K,Single,2517,9110,46,3,39,28%
+Blue,Attrited Customer,810271083,40,Unknown,F,$40K - $60K,Single,0,14897,47,3,42,0%
+Blue,Attrited Customer,714213708,30,College,F,Less than $40K,Single,2517,3611,35,3,25,70%
+Blue,Attrited Customer,720612333,40,College,F,Less than $40K,Single,0,1951,44,3,28,0%
+Blue,Attrited Customer,714960408,40,College,F,Less than $40K,Single,890,1605,44,3,34,56%
+Blue,Attrited Customer,709112508,40,College,F,Less than $40K,Single,1300,3802,42,3,36,34%
+Blue,Retained Customers,716022258,50,College,F,Less than $40K,Single,2222,8960,51,3,36,25%
+Blue,Retained Customers,717666783,50,College,F,Less than $40K,Single,1350,2272,56,3,46,59%
+Blue,Attrited Customer,718473558,40,Doctorate,F,Less than $40K,Single,0,8668,42,3,18,0%
+Blue,Attrited Customer,712864683,40,Doctorate,F,Less than $40K,Single,0,1438.3,42,3,30,0%
+Blue,Attrited Customer,720827133,40,Doctorate,F,Less than $40K,Single,463,6261,43,3,30,7%
+Blue,Attrited Customer,717429258,40,Doctorate,F,Less than $40K,Single,500,1644,48,3,39,30%
+Blue,Attrited Customer,712092783,40,Doctorate,F,Less than $40K,Single,0,2437,47,3,40,0%
+Blue,Attrited Customer,779848383,30,Graduate,F,Less than $40K,Single,577,1784,37,3,21,32%
+Blue,Attrited Customer,711772008,30,Graduate,F,Less than $40K,Single,666,1890,35,3,22,35%
+Blue,Attrited Customer,758583708,30,Graduate,F,Less than $40K,Single,2460,2802,37,3,24,88%
+Blue,Attrited Customer,715304958,40,Graduate,F,Less than $40K,Single,0,2053,42,3,27,0%
+Blue,Attrited Customer,717529233,40,Graduate,F,Less than $40K,Single,0,3319,40,3,30,0%
+Blue,Attrited Customer,824560758,30,Graduate,F,Less than $40K,Single,0,1678,35,3,31,0%
+Blue,Attrited Customer,711150333,40,Graduate,F,Less than $40K,Single,0,2391,40,3,31,0%
+Blue,Attrited Customer,711122958,40,Graduate,F,Less than $40K,Single,0,1764,41,3,33,0%
+Blue,Retained Customers,720401658,50,Graduate,F,Less than $40K,Single,1030,1438.3,53,3,34,72%
+Blue,Attrited Customer,708412758,30,Graduate,F,Less than $40K,Single,0,1457,33,3,36,0%
+Blue,Attrited Customer,720270633,40,Graduate,F,Less than $40K,Single,0,1516,40,3,36,0%
+Blue,Attrited Customer,716329383,40,Graduate,F,Less than $40K,Single,986,3138,46,3,36,31%
+Blue,Attrited Customer,711357858,40,Graduate,F,Less than $40K,Single,0,7246,47,3,36,0%
+Blue,Retained Customers,714192933,50,Graduate,F,Less than $40K,Single,0,2060,55,3,36,0%
+Blue,Attrited Customer,713748708,40,Graduate,F,Less than $40K,Single,0,1438.3,46,3,37,0%
+Blue,Attrited Customer,813752433,40,Graduate,F,Less than $40K,Single,1986,4075,43,3,38,49%
+Blue,Retained Customers,720731808,50,Graduate,F,Less than $40K,Single,0,2437,52,3,38,0%
+Blue,Attrited Customer,712807758,40,Graduate,F,Less than $40K,Single,0,1438.3,47,3,39,0%
+Blue,Attrited Customer,714581358,40,Graduate,F,Less than $40K,Single,0,1502,48,3,43,0%
+Blue,Attrited Customer,785285883,40,Graduate,F,Less than $40K,Single,0,1675,49,3,43,0%
+Blue,Attrited Customer,717208833,30,High School,F,Less than $40K,Single,0,1576,34,3,21,0%
+Blue,Attrited Customer,708190158,30,High School,F,Less than $40K,Single,2426,2920,38,3,26,83%
+Blue,Attrited Customer,711201108,30,High School,F,Less than $40K,Single,0,1653,37,3,29,0%
+Blue,Attrited Customer,711412533,40,High School,F,Less than $40K,Single,1573,5492,40,3,35,29%
+Blue,Attrited Customer,714983283,30,High School,F,Less than $40K,Single,0,3651,39,3,36,0%
+Blue,Attrited Customer,711800658,40,High School,F,Less than $40K,Single,0,2145,42,3,36,0%
+Blue,Attrited Customer,711637458,40,High School,F,Less than $40K,Single,0,2228,44,3,36,0%
+Blue,Retained Customers,719305608,50,High School,F,Less than $40K,Single,1900,2347,57,3,36,81%
+Blue,Attrited Customer,721460283,40,Post-Graduate,F,Less than $40K,Single,915,2214,49,3,35,41%
+Blue,Attrited Customer,721104708,40,Post-Graduate,F,Less than $40K,Single,1966,2067,41,3,36,95%
+Blue,Retained Customers,719770158,50,Post-Graduate,F,Less than $40K,Single,0,8516,54,3,49,0%
+Blue,Attrited Customer,713597658,30,Unknown,F,Less than $40K,Single,2378,2784,36,3,22,85%
+Blue,Retained Customers,716717733,50,Unknown,F,Less than $40K,Single,859,4841,55,3,47,18%
+Blue,Retained Customers,708801108,50,Unknown,F,Less than $40K,Single,0,1438.3,57,3,51,0%
+Blue,Attrited Customer,712240083,30,Unknown,F,Less than $40K,Single,2517,3730,38,3,30,68%
+Blue,Attrited Customer,715609533,40,Unknown,F,Less than $40K,Single,0,5398,47,3,35,0%
+Blue,Attrited Customer,717219933,40,Unknown,F,Less than $40K,Single,628,2402,47,3,35,26%
+Blue,Attrited Customer,721426383,30,Unknown,F,Less than $40K,Single,261,1558,36,3,36,17%
+Blue,Attrited Customer,718508883,40,Unknown,F,Less than $40K,Single,238,2325,43,3,36,10%
+Blue,Attrited Customer,718877883,40,Unknown,F,Less than $40K,Single,2517,5644,44,3,36,45%
+Blue,Attrited Customer,717592758,40,Unknown,F,Less than $40K,Single,1578,1606,44,3,36,98%
+Blue,Attrited Customer,714543633,40,Unknown,F,Less than $40K,Single,0,7500,45,3,36,0%
+Blue,Retained Customers,713373708,50,Unknown,F,Less than $40K,Single,0,1857,54,3,36,0%
+Blue,Attrited Customer,719118708,40,Unknown,F,Less than $40K,Single,0,5855,49,3,37,0%
+Blue,Retained Customers,720190083,50,Unknown,F,Less than $40K,Single,0,1632,56,3,39,0%
+Blue,Retained Customers,772528158,50,Unknown,F,Less than $40K,Single,0,1741,55,3,45,0%
+Blue,Retained Customers,789502308,50,Unknown,F,Less than $40K,Single,790,1551,57,3,49,51%
+Blue,Attrited Customer,709505808,40,College,F,Unknown,Single,2198,4345,45,3,33,51%
+Blue,Retained Customers,806407308,50,College,F,Unknown,Single,0,13184,54,3,49,0%
+Blue,Attrited Customer,718152333,40,Doctorate,F,Unknown,Single,0,2246,41,3,36,0%
+Blue,Retained Customers,714677583,50,Doctorate,F,Unknown,Single,0,5173,50,3,36,0%
+Blue,Retained Customers,713952558,50,Doctorate,F,Unknown,Single,1474,1790,53,3,43,82%
+Blue,Attrited Customer,709560258,40,Graduate,F,Unknown,Single,0,4946,49,3,31,0%
+Blue,Attrited Customer,720784833,40,Graduate,F,Unknown,Single,1243,1630,48,3,36,76%
+Blue,Retained Customers,718090233,50,Graduate,F,Unknown,Single,1872,10016,56,3,36,19%
+Blue,Attrited Customer,713980383,40,Graduate,F,Unknown,Single,0,11025,49,3,38,0%
+Blue,Attrited Customer,712110333,30,High School,F,Unknown,Single,0,2179,37,3,18,0%
+Blue,Attrited Customer,712196508,40,High School,F,Unknown,Single,1164,29543,46,3,34,4%
+Blue,Attrited Customer,772341783,40,High School,F,Unknown,Single,2517,3512,45,3,35,72%
+Blue,Attrited Customer,714212358,30,High School,F,Unknown,Single,1706,5260,38,3,36,32%
+Blue,Retained Customers,717813558,50,High School,F,Unknown,Single,1960,8389,57,3,36,23%
+Blue,Attrited Customer,772271508,40,Unknown,F,Unknown,Single,0,1706,46,3,35,0%
+Blue,Attrited Customer,708702258,40,Unknown,F,Unknown,Single,478,3698,40,3,36,13%
+Blue,Attrited Customer,720961383,40,Unknown,F,Unknown,Single,0,2952,47,3,36,0%
+Blue,Attrited Customer,714084483,40,Unknown,F,Unknown,Single,211,3855,49,3,36,6%
+Blue,Retained Customers,711669258,50,Unknown,F,Unknown,Single,986,3187,50,3,36,31%
+Blue,Retained Customers,716893683,50,Unknown,F,Unknown,Single,2517,14657,55,3,47,17%
+Blue,Attrited Customer,708798483,30,Unknown,F,Unknown,Single,0,2054,37,3,24,0%
+Blue,Attrited Customer,711873033,30,Unknown,F,Unknown,Single,0,1438.3,35,3,29,0%
+Blue,Attrited Customer,715150983,40,Unknown,F,Unknown,Single,0,26021,44,3,34,0%
+Blue,Attrited Customer,753365883,40,Unknown,F,Unknown,Single,0,1900,44,3,37,0%
+Blue,Attrited Customer,715919283,30,College,F,$40K - $60K,Single,0,1776,39,4,36,0%
+Blue,Attrited Customer,771561183,40,Graduate,F,$40K - $60K,Single,2517,13753,42,4,30,18%
+Blue,Attrited Customer,709206333,40,Graduate,F,$40K - $60K,Single,0,4333,44,4,30,0%
+Blue,Attrited Customer,789880533,40,Graduate,F,$40K - $60K,Single,1651,5913,46,4,36,28%
+Blue,Retained Customers,713583408,50,Graduate,F,$40K - $60K,Single,920,4708,51,4,37,20%
+Blue,Attrited Customer,815504583,40,Graduate,F,$40K - $60K,Single,0,1538,48,4,43,0%
+Blue,Retained Customers,720164358,50,Graduate,F,$40K - $60K,Single,0,6058,53,4,43,0%
+Blue,Attrited Customer,717949008,40,High School,F,$40K - $60K,Single,412,1554,40,4,29,27%
+Blue,Attrited Customer,711468708,30,High School,F,$40K - $60K,Single,0,1438.3,38,4,31,0%
+Blue,Retained Customers,711801933,50,High School,F,$40K - $60K,Single,0,1438.3,54,4,36,0%
+Blue,Attrited Customer,814765533,40,High School,F,$40K - $60K,Single,2517,10587,44,4,39,24%
+Blue,Attrited Customer,715409733,40,College,F,Less than $40K,Single,0,2263,47,4,36,0%
+Blue,Attrited Customer,822170733,40,College,F,Less than $40K,Single,2517,3785,45,4,41,67%
+Blue,Attrited Customer,713027058,40,Doctorate,F,Less than $40K,Single,0,2292,46,4,36,0%
+Blue,Attrited Customer,779302233,40,Graduate,F,Less than $40K,Single,0,1438.3,40,4,22,0%
+Blue,Attrited Customer,713463708,40,Graduate,F,Less than $40K,Single,0,1438.3,40,4,25,0%
+Blue,Attrited Customer,718342158,30,Graduate,F,Less than $40K,Single,1933,4391,38,4,26,44%
+Blue,Attrited Customer,716856408,30,Graduate,F,Less than $40K,Single,0,1438.3,39,4,28,0%
+Blue,Attrited Customer,716858433,40,Graduate,F,Less than $40K,Single,0,3015,43,4,32,0%
+Blue,Attrited Customer,710555433,40,Graduate,F,Less than $40K,Single,0,2803,42,4,36,0%
+Blue,Attrited Customer,711691608,40,Graduate,F,Less than $40K,Single,2450,2881,46,4,36,85%
+Blue,Retained Customers,710878308,50,Graduate,F,Less than $40K,Single,913,3699,50,4,37,25%
+Blue,Attrited Customer,719512983,40,Graduate,F,Less than $40K,Single,0,1438.3,47,4,39,0%
+Blue,Attrited Customer,718975083,40,Graduate,F,Less than $40K,Single,0,2473,47,4,40,0%
+Blue,Retained Customers,798041508,50,Graduate,F,Less than $40K,Single,2517,3201,50,4,44,79%
+Blue,Retained Customers,711722808,50,Graduate,F,Less than $40K,Single,0,1483,51,4,44,0%
+Blue,Attrited Customer,718080558,40,High School,F,Less than $40K,Single,0,4720,41,4,36,0%
+Blue,Attrited Customer,715327683,40,Post-Graduate,F,Less than $40K,Single,2517,4477,45,4,36,56%
+Blue,Attrited Customer,713804883,40,Post-Graduate,F,Less than $40K,Single,0,1836,46,4,37,0%
+Blue,Attrited Customer,789312033,40,Post-Graduate,F,Less than $40K,Single,460,3874,48,4,38,12%
+Blue,Attrited Customer,716136333,40,Unknown,F,Less than $40K,Single,2517,4212,40,4,24,60%
+Blue,Attrited Customer,789081408,40,Unknown,F,Less than $40K,Single,170,1438.3,44,4,32,12%
+Blue,Attrited Customer,756025233,40,Unknown,F,Less than $40K,Single,1014,2422,43,4,36,42%
+Blue,Retained Customers,712747758,50,Unknown,F,Less than $40K,Single,0,2477,50,4,36,0%
+Blue,Attrited Customer,709798908,40,Unknown,F,Less than $40K,Single,0,2858,45,4,32,0%
+Blue,Attrited Customer,720939933,40,Unknown,F,Less than $40K,Single,0,2879,46,4,33,0%
+Blue,Attrited Customer,812406183,40,Unknown,F,Less than $40K,Single,0,1438.3,45,4,40,0%
+Blue,Retained Customers,711245433,50,Graduate,F,Unknown,Single,0,2509,50,4,41,0%
+Blue,Attrited Customer,778441533,40,High School,F,Unknown,Single,1631,4549,45,4,26,36%
+Blue,Attrited Customer,716668308,30,High School,F,Unknown,Single,0,12405,39,4,36,0%
+Blue,Attrited Customer,712130058,40,Unknown,F,Unknown,Single,317,8075,44,4,36,4%
+Blue,Attrited Customer,815908908,40,Unknown,F,Unknown,Single,2517,6263,47,4,42,40%
+Blue,Attrited Customer,712441308,40,Unknown,F,Unknown,Single,0,29295,41,4,25,0%
+Blue,Attrited Customer,708797583,40,Unknown,F,Unknown,Single,0,2672,49,4,31,0%
+Blue,Attrited Customer,711742758,40,College,F,$40K - $60K,Single,0,11508,43,5,32,0%
+Blue,Attrited Customer,714188883,40,Doctorate,F,Less than $40K,Single,0,1787,46,5,37,0%
+Blue,Retained Customers,713025558,50,Doctorate,F,Less than $40K,Single,0,1438.3,53,5,38,0%
+Blue,Attrited Customer,712706058,40,Graduate,F,Less than $40K,Single,0,1491,44,5,37,0%
+Blue,Attrited Customer,711232608,40,High School,F,Less than $40K,Single,0,1636,47,5,36,0%
+Blue,Attrited Customer,711156858,40,High School,F,Less than $40K,Single,2517,8297,48,5,40,30%
+Blue,Attrited Customer,714058308,40,Unknown,F,Less than $40K,Single,2384,2689,43,5,36,89%
+Blue,Attrited Customer,719168883,40,Unknown,F,Less than $40K,Single,0,5155,45,5,34,0%
+Blue,Retained Customers,712161858,50,Unknown,F,Less than $40K,Single,0,1438.3,55,5,36,0%
+Blue,Retained Customers,716260833,50,Unknown,F,Less than $40K,Single,2517,4668,56,5,36,54%
+Blue,Attrited Customer,714010383,40,Unknown,F,Unknown,Single,0,3502,47,5,40,0%
+Gold,Attrited Customer,778643733,40,Unknown,F,$40K - $60K,Single,1454,23981,48,1,28,6%
+Gold,Attrited Customer,714848958,40,Graduate,F,Less than $40K,Single,897,15109,47,2,37,6%
+Gold,Attrited Customer,712509108,40,Doctorate,F,Less than $40K,Single,532,15164,46,3,36,4%
+Gold,Attrited Customer,715496058,40,Unknown,F,Less than $40K,Single,0,15987,41,4,36,0%
+Gold,Attrited Customer,720460083,40,Unknown,F,Unknown,Single,0,34516,45,4,27,0%
+Platinum,Retained Customers,719071158,50,Graduate,F,Unknown,Single,0,34516,54,0,38,0%
+Platinum,Retained Customers,714190983,50,Graduate,F,Unknown,Single,531,34516,51,2,32,2%
+Platinum,Attrited Customer,709319658,40,Graduate,F,Less than $40K,Single,0,15987,48,4,37,0%
+Silver,Attrited Customer,811527933,60,College,F,Less than $40K,Single,1758,10885,65,0,56,16%
+Silver,Retained Customers,712044558,50,Unknown,F,Less than $40K,Single,1309,14563,51,1,41,9%
+Silver,Attrited Customer,714022833,40,Graduate,F,$40K - $60K,Single,0,17909,42,2,32,0%
+Silver,Attrited Customer,788030208,40,Unknown,F,Less than $40K,Single,2517,13453,42,2,33,19%
+Silver,Retained Customers,713021208,50,College,F,Unknown,Single,0,34516,55,2,36,0%
+Silver,Retained Customers,719629308,50,Unknown,F,Unknown,Single,1783,34516,55,2,37,5%
+Silver,Attrited Customer,708821733,40,Unknown,F,$40K - $60K,Single,531,19713,43,3,36,3%
+Silver,Retained Customers,793608258,50,Graduate,F,Less than $40K,Single,0,13432,54,3,48,0%
+Silver,Attrited Customer,715517733,40,High School,F,Less than $40K,Single,1962,13092,46,3,39,15%
+Silver,Attrited Customer,710812533,40,High School,F,Unknown,Single,154,34516,46,3,36,0%
+Silver,Retained Customers,708687483,50,Graduate,F,Less than $40K,Single,0,13626,54,4,36,0%
+Silver,Attrited Customer,717477783,40,Unknown,F,Less than $40K,Single,2389,10195,49,4,37,23%
+Blue,Attrited Customer,708916083,40,Doctorate,F,Less than $40K,Unknown,0,1749,49,0,37,0%
+Blue,Retained Customers,711790308,50,High School,F,Less than $40K,Unknown,632,2223,54,0,34,28%
+Blue,Attrited Customer,713388108,60,High School,F,Less than $40K,Unknown,0,5210,62,0,51,0%
+Blue,Retained Customers,716354883,50,Graduate,F,Unknown,Unknown,0,9076,59,0,49,0%
+Blue,Attrited Customer,774760458,60,High School,F,$40K - $60K,Unknown,2517,3807,62,1,56,66%
+Blue,Attrited Customer,708788583,60,College,F,Less than $40K,Unknown,0,6167,64,1,56,0%
+Blue,Retained Customers,720531633,50,Graduate,F,Less than $40K,Unknown,2517,3552,55,1,36,71%
+Blue,Attrited Customer,712329933,40,High School,F,Less than $40K,Unknown,0,3654,47,1,41,0%
+Blue,Attrited Customer,716709858,30,Unknown,F,Less than $40K,Unknown,0,3074,34,1,25,0%
+Blue,Attrited Customer,714630858,30,Unknown,F,Less than $40K,Unknown,458,1470,36,1,36,31%
+Blue,Retained Customers,719299533,50,Unknown,F,Less than $40K,Unknown,795,3626,55,1,36,22%
+Blue,Attrited Customer,711535158,40,College,F,Unknown,Unknown,461,2197,46,1,35,21%
+Blue,Attrited Customer,779247483,40,Unknown,F,Unknown,Unknown,0,2069,46,1,28,0%
+Blue,Attrited Customer,709823733,40,Graduate,F,$40K - $60K,Unknown,0,5508,44,2,34,0%
+Blue,Attrited Customer,780584658,30,Unknown,F,$40K - $60K,Unknown,1293,1843,33,2,22,70%
+Blue,Attrited Customer,780670083,30,Unknown,F,$40K - $60K,Unknown,0,4363,39,2,28,0%
+Blue,Attrited Customer,791730183,30,College,F,Less than $40K,Unknown,1817,7385,38,2,32,25%
+Blue,Attrited Customer,713047608,40,College,F,Less than $40K,Unknown,2013,2387,40,2,36,84%
+Blue,Attrited Customer,713153733,40,Graduate,F,Less than $40K,Unknown,1473,2520,49,2,29,59%
+Blue,Attrited Customer,778289883,40,Graduate,F,Less than $40K,Unknown,0,1507,42,2,32,0%
+Blue,Attrited Customer,708584208,30,Graduate,F,Less than $40K,Unknown,2517,3111,36,2,36,81%
+Blue,Attrited Customer,714923583,30,Graduate,F,Less than $40K,Unknown,0,2369,38,2,36,0%
+Blue,Attrited Customer,712770408,40,Graduate,F,Less than $40K,Unknown,0,3413,42,2,36,0%
+Blue,Retained Customers,711721458,50,Graduate,F,Less than $40K,Unknown,0,1438.3,50,2,36,0%
+Blue,Attrited Customer,819634233,40,Graduate,F,Less than $40K,Unknown,0,6568,46,2,40,0%
+Blue,Retained Customers,713058858,50,Graduate,F,Less than $40K,Unknown,913,1695,54,2,46,54%
+Blue,Retained Customers,828215508,50,Graduate,F,Less than $40K,Unknown,0,1438.3,55,2,50,0%
+Blue,Retained Customers,789241308,50,Unknown,F,Less than $40K,Unknown,0,1438.3,54,2,39,0%
+Blue,Retained Customers,716575758,50,College,F,Unknown,Unknown,0,1438.3,50,2,39,0%
+Blue,Retained Customers,716573058,50,Doctorate,F,Less than $40K,Unknown,0,1438.3,54,3,36,0%
+Blue,Attrited Customer,710138883,40,Graduate,F,Less than $40K,Unknown,0,8109,47,3,36,0%
+Blue,Attrited Customer,716963283,40,Graduate,F,Less than $40K,Unknown,2517,3165,47,3,38,80%
+Blue,Attrited Customer,826261008,40,Graduate,F,Less than $40K,Unknown,0,1438.3,48,3,44,0%
+Blue,Attrited Customer,712399308,30,High School,F,Less than $40K,Unknown,2387,2989,38,3,36,80%
+Blue,Attrited Customer,712853358,30,High School,F,Less than $40K,Unknown,0,1817,39,3,36,0%
+Blue,Attrited Customer,772150983,40,High School,F,Less than $40K,Unknown,978,2363,48,3,37,41%
+Blue,Attrited Customer,711683358,40,High School,F,Less than $40K,Unknown,0,3313,46,3,41,0%
+Blue,Retained Customers,713555133,50,High School,F,Less than $40K,Unknown,595,1667,56,3,44,36%
+Blue,Attrited Customer,779055033,40,Unknown,F,Less than $40K,Unknown,2416,8256,43,3,24,29%
+Blue,Attrited Customer,815320383,40,Unknown,F,Less than $40K,Unknown,0,4710,46,3,41,0%
+Blue,Retained Customers,772306383,50,Unknown,F,Less than $40K,Unknown,0,1462,57,3,43,0%
+Blue,Attrited Customer,721178583,30,Graduate,F,Unknown,Unknown,0,5674,37,3,22,0%
+Blue,Attrited Customer,714031083,40,Graduate,F,Unknown,Unknown,0,8869,46,3,30,0%
+Blue,Attrited Customer,720197058,40,Graduate,F,Unknown,Unknown,0,3443,47,3,33,0%
+Blue,Attrited Customer,779104608,30,High School,F,Unknown,Unknown,0,1438.3,34,3,15,0%
+Blue,Attrited Customer,711819708,30,Post-Graduate,F,Unknown,Unknown,2517,4734,33,3,25,53%
+Blue,Attrited Customer,713920158,40,Unknown,F,Unknown,Unknown,0,13733,41,3,36,0%
+Blue,Attrited Customer,714127383,40,Unknown,F,Unknown,Unknown,2517,4431,48,3,36,57%
+Blue,Retained Customers,779905008,50,Graduate,F,$40K - $60K,Unknown,0,1779,54,4,38,0%
+Blue,Attrited Customer,712704933,40,High School,F,$40K - $60K,Unknown,0,4048,49,4,43,0%
+Blue,Attrited Customer,720867708,40,Graduate,F,Less than $40K,Unknown,1103,1748,45,4,33,63%
+Blue,Attrited Customer,787493808,40,Graduate,F,Less than $40K,Unknown,2480,2700,48,4,36,92%
+Blue,Attrited Customer,820047858,40,Graduate,F,Less than $40K,Unknown,1868,3017,44,4,39,62%
+Blue,Retained Customers,719420883,50,Graduate,F,Less than $40K,Unknown,0,1677,56,4,44,0%
+Blue,Attrited Customer,720178158,40,High School,F,Less than $40K,Unknown,0,7552,46,4,37,0%
+Blue,Attrited Customer,794719983,40,High School,F,Less than $40K,Unknown,2505,2616,44,4,38,96%
+Blue,Retained Customers,714266883,50,Post-Graduate,F,Less than $40K,Unknown,503,2440,54,4,44,21%
+Blue,Attrited Customer,787747308,40,Unknown,F,Less than $40K,Unknown,2517,3468,49,4,39,73%
+Blue,Attrited Customer,715297908,40,College,F,Unknown,Unknown,1125,1438.3,41,4,22,78%
+Blue,Attrited Customer,712229283,40,Doctorate,F,Unknown,Unknown,0,1438.3,48,4,24,0%
+Blue,Attrited Customer,711540108,40,Doctorate,F,Unknown,Unknown,0,1438.3,44,4,33,0%
+Blue,Attrited Customer,715020933,40,High School,F,Unknown,Unknown,0,15944,44,4,34,0%
+Blue,Attrited Customer,710752233,40,High School,F,$40K - $60K,Unknown,2203,4430,43,5,24,50%
+Blue,Attrited Customer,819688458,40,Graduate,F,Less than $40K,Unknown,0,1545,44,5,39,0%
+Blue,Attrited Customer,789817833,40,Post-Graduate,F,Less than $40K,Unknown,2466,9073,44,5,33,27%
+Gold,Attrited Customer,817607358,40,High School,F,Unknown,Unknown,0,34516,44,2,35,0%
+Silver,Retained Customers,721273008,50,College,F,Less than $40K,Unknown,1252,10797,54,1,43,12%
+Silver,Attrited Customer,711096633,30,Unknown,F,Less than $40K,Unknown,0,12203,37,2,29,0%
+Silver,Attrited Customer,718614183,40,High School,F,Less than $40K,Unknown,0,13651,43,4,31,0%
+Blue,Attrited Customer,713733633,20,High School,M,$60K - $80K,Divorced,2517,13303,27,0,36,19%
+Blue,Attrited Customer,716987358,20,Post-Graduate,M,$60K - $80K,Divorced,0,8022,29,0,15,0%
+Blue,Retained Customers,712849158,50,High School,M,$80K - $120K,Divorced,2488,19793,55,0,44,13%
+Blue,Retained Customers,708949908,50,Graduate,M,$120K +,Divorced,0,1656,50,1,42,0%
+Blue,Retained Customers,773667708,50,Graduate,M,$60K - $80K,Divorced,1008,7050,50,1,44,14%
+Blue,Attrited Customer,778693458,30,High School,M,$60K - $80K,Divorced,0,12616,32,1,13,0%
+Blue,Attrited Customer,719818983,30,College,M,$80K - $120K,Divorced,0,12464,39,1,28,0%
+Blue,Retained Customers,714294183,50,Graduate,M,$80K - $120K,Divorced,132,9580,54,1,44,1%
+Blue,Attrited Customer,787482033,60,High School,M,$80K - $120K,Divorced,0,28930,60,1,48,0%
+Blue,Retained Customers,778272408,50,Unknown,M,$80K - $120K,Divorced,0,5763,52,1,42,0%
+Blue,Attrited Customer,772292358,30,College,M,Less than $40K,Divorced,0,7970,30,1,19,0%
+Blue,Attrited Customer,718418958,30,Post-Graduate,M,Less than $40K,Divorced,0,5061,30,1,36,0%
+Blue,Attrited Customer,714864333,40,College,M,$120K +,Divorced,0,34516,43,2,37,0%
+Blue,Retained Customers,716609433,50,High School,M,$120K +,Divorced,2517,16828,55,2,46,15%
+Blue,Retained Customers,778860783,50,Unknown,M,$120K +,Divorced,1116,24379,57,2,38,5%
+Blue,Retained Customers,814191333,50,Unknown,M,$120K +,Divorced,278,24250,55,2,50,1%
+Blue,Attrited Customer,789964983,40,Graduate,M,$40K - $60K,Divorced,0,9569,45,2,36,0%
+Blue,Attrited Customer,789365508,40,High School,M,$40K - $60K,Divorced,512,14839,49,2,39,4%
+Blue,Attrited Customer,710638233,40,Unknown,M,$40K - $60K,Divorced,2186,4277,41,2,25,51%
+Blue,Attrited Customer,791856033,40,College,M,$80K - $120K,Divorced,0,34516,45,2,39,0%
+Blue,Attrited Customer,720006333,40,College,M,$80K - $120K,Divorced,0,4479,48,2,40,0%
+Blue,Attrited Customer,712982808,40,Doctorate,M,$80K - $120K,Divorced,0,1438.3,47,2,32,0%
+Blue,Attrited Customer,781320783,40,Graduate,M,$80K - $120K,Divorced,0,4586,47,2,41,0%
+Blue,Attrited Customer,714751158,40,High School,M,$80K - $120K,Divorced,2517,34516,49,2,36,7%
+Blue,Retained Customers,717624708,50,High School,M,Less than $40K,Divorced,0,1438.3,59,2,51,0%
+Blue,Attrited Customer,720748608,40,Graduate,M,$40K - $60K,Divorced,0,3575,44,3,32,0%
+Blue,Attrited Customer,807379833,40,Graduate,M,$40K - $60K,Divorced,145,9104,48,3,43,2%
+Blue,Retained Customers,716570958,50,Post-Graduate,M,$60K - $80K,Divorced,511,14409,50,3,36,4%
+Blue,Attrited Customer,719176308,40,College,M,$80K - $120K,Divorced,0,7278,43,3,32,0%
+Blue,Attrited Customer,708793008,40,Doctorate,M,$80K - $120K,Divorced,0,9949,46,3,35,0%
+Blue,Attrited Customer,708084558,40,Doctorate,M,$80K - $120K,Divorced,1771,8258,46,3,38,21%
+Blue,Attrited Customer,778929783,40,Graduate,M,$80K - $120K,Divorced,0,1925,40,3,22,0%
+Blue,Attrited Customer,778606308,40,Unknown,M,$80K - $120K,Divorced,1881,6614,45,3,25,28%
+Blue,Retained Customers,721243083,50,Unknown,M,$80K - $120K,Divorced,2408,34516,55,3,41,7%
+Blue,Attrited Customer,765459858,40,Graduate,M,Less than $40K,Divorced,0,6397,47,3,40,0%
+Blue,Retained Customers,718333983,50,Unknown,M,$120K +,Divorced,2219,13694,57,4,36,16%
+Blue,Attrited Customer,721137558,40,Graduate,M,$40K - $60K,Divorced,894,5821,40,4,28,15%
+Blue,Retained Customers,714544908,50,Graduate,M,$60K - $80K,Divorced,0,6224,56,4,36,0%
+Blue,Attrited Customer,719123958,40,Unknown,M,$60K - $80K,Divorced,0,5051,40,4,27,0%
+Blue,Attrited Customer,714471183,40,Graduate,M,$80K - $120K,Divorced,476,17504,47,4,39,3%
+Blue,Attrited Customer,717580458,40,Unknown,M,$80K - $120K,Divorced,0,19333,43,4,36,0%
+Blue,Attrited Customer,721427358,40,Unknown,M,$80K - $120K,Divorced,0,8757,47,4,28,0%
+Blue,Attrited Customer,780720258,40,High School,M,Less than $40K,Divorced,2517,3489,45,4,34,72%
+Blue,Retained Customers,768712383,50,Graduate,M,$120K +,Divorced,0,34516,51,5,45,0%
+Blue,Attrited Customer,714608583,40,High School,M,$120K +,Divorced,0,5287,45,5,36,0%
+Blue,Attrited Customer,714319233,40,Graduate,M,$60K - $80K,Divorced,0,6538,44,5,36,0%
+Silver,Attrited Customer,709649958,60,Post-Graduate,M,$60K - $80K,Divorced,287,28229,62,0,46,1%
+Silver,Attrited Customer,714145233,30,Graduate,M,$80K - $120K,Divorced,400,34516,34,0,24,1%
+Silver,Attrited Customer,815353083,40,College,M,$80K - $120K,Divorced,2361,34516,44,1,39,7%
+Silver,Attrited Customer,794571108,30,Graduate,M,$40K - $60K,Divorced,304,17894,39,2,23,2%
+Silver,Attrited Customer,709865883,30,High School,M,$60K - $80K,Divorced,821,26794,38,2,25,3%
+Silver,Retained Customers,718376583,50,Graduate,M,$80K - $120K,Divorced,751,34516,52,2,44,2%
+Silver,Attrited Customer,811035483,40,Unknown,M,$120K +,Divorced,0,34516,47,3,42,0%
+Blue,Attrited Customer,720181758,30,Doctorate,M,$120K +,Married,0,8654,37,0,22,0%
+Blue,Attrited Customer,711224733,30,High School,M,$120K +,Married,0,22382,32,0,27,0%
+Blue,Attrited Customer,773172483,30,Graduate,M,$40K - $60K,Married,0,4063,30,0,23,0%
+Blue,Attrited Customer,767784708,40,Doctorate,M,$60K - $80K,Married,504,7277,48,0,41,7%
+Blue,Attrited Customer,711237633,40,Graduate,M,$60K - $80K,Married,0,1460,49,0,29,0%
+Blue,Attrited Customer,813449508,60,Graduate,M,$60K - $80K,Married,850,9918,61,0,56,9%
+Blue,Attrited Customer,710170758,30,Post-Graduate,M,$60K - $80K,Married,2331,4469,32,0,25,52%
+Blue,Attrited Customer,717915783,60,Unknown,M,$60K - $80K,Married,1037,4541,60,0,47,23%
+Blue,Retained Customers,716238483,50,College,M,$80K - $120K,Married,2352,12918,59,0,50,18%
+Blue,Attrited Customer,716088783,60,College,M,$80K - $120K,Married,0,29239,60,0,50,0%
+Blue,Retained Customers,711390333,50,Post-Graduate,M,$80K - $120K,Married,489,6526,59,0,46,8%
+Blue,Attrited Customer,711605208,60,Unknown,M,$80K - $120K,Married,0,1438.3,61,0,43,0%
+Blue,Attrited Customer,717060858,30,Graduate,M,Less than $40K,Married,2517,6911,31,0,36,36%
+Blue,Attrited Customer,718045008,30,Post-Graduate,M,Less than $40K,Married,0,3768,31,0,21,0%
+Blue,Retained Customers,720610008,50,College,M,$120K +,Married,812,15796,59,1,50,5%
+Blue,Retained Customers,714342033,50,High School,M,$120K +,Married,0,34516,52,1,34,0%
+Blue,Attrited Customer,788739633,30,Unknown,M,$120K +,Married,238,2106,38,1,16,11%
+Blue,Attrited Customer,710061783,40,Graduate,M,$40K - $60K,Married,0,14973,49,1,40,0%
+Blue,Retained Customers,713312208,50,High School,M,$40K - $60K,Married,0,3146,53,1,43,0%
+Blue,Attrited Customer,711460458,40,Unknown,M,$40K - $60K,Married,0,10973,44,1,34,0%
+Blue,Attrited Customer,715610733,60,Unknown,M,$40K - $60K,Married,1175,3735,60,1,47,32%
+Blue,Attrited Customer,710306358,30,Unknown,M,$40K - $60K,Married,1983,9664,38,1,18,21%
+Blue,Retained Customers,719847108,50,Unknown,M,$40K - $60K,Married,2517,8455,52,1,36,30%
+Blue,Attrited Customer,709608708,20,Graduate,M,$60K - $80K,Married,2517,6500,29,1,17,39%
+Blue,Attrited Customer,708799983,40,Post-Graduate,M,$60K - $80K,Married,890,18386,40,1,36,5%
+Blue,Attrited Customer,710674533,40,Unknown,M,$60K - $80K,Married,0,15060,46,1,34,0%
+Blue,Attrited Customer,720693033,30,Unknown,M,$60K - $80K,Married,168,8925,33,1,36,2%
+Blue,Attrited Customer,719379858,30,Graduate,M,$80K - $120K,Married,0,24239,39,1,36,0%
+Blue,Attrited Customer,798022683,40,Graduate,M,$80K - $120K,Married,321,25517,43,1,37,1%
+Blue,Retained Customers,709991883,50,Graduate,M,$80K - $120K,Married,1147,6214,53,1,42,19%
+Blue,Retained Customers,787339158,50,Graduate,M,$80K - $120K,Married,0,8688,56,1,50,0%
+Blue,Retained Customers,717185658,50,High School,M,$80K - $120K,Married,0,22754,51,1,36,0%
+Blue,Retained Customers,719593608,50,Unknown,M,$80K - $120K,Married,0,33870,56,1,36,0%
+Blue,Retained Customers,779380908,50,Unknown,M,$80K - $120K,Married,946,24462,51,1,39,4%
+Blue,Attrited Customer,709164408,30,Unknown,M,Less than $40K,Married,1696,2218,32,1,23,77%
+Blue,Attrited Customer,712551258,30,Unknown,M,Less than $40K,Married,0,4247,39,1,36,0%
+Blue,Attrited Customer,709199358,60,Unknown,M,Less than $40K,Married,0,3316,60,1,36,0%
+Blue,Retained Customers,714967233,50,Doctorate,M,$120K +,Married,0,11188,52,2,34,0%
+Blue,Attrited Customer,716053083,30,Graduate,M,$120K +,Married,0,27992,33,2,21,0%
+Blue,Attrited Customer,708892833,30,Graduate,M,$120K +,Married,0,13662,37,2,30,0%
+Blue,Retained Customers,708927108,50,Graduate,M,$120K +,Married,507,12778,53,2,36,4%
+Blue,Retained Customers,713041683,50,Graduate,M,$120K +,Married,0,4697,55,2,36,0%
+Blue,Attrited Customer,711509658,60,Graduate,M,$120K +,Married,2517,11374,61,2,49,22%
+Blue,Attrited Customer,709891608,40,High School,M,$120K +,Married,0,9924,41,2,24,0%
+Blue,Attrited Customer,708501783,40,High School,M,$120K +,Married,1477,34516,43,2,36,4%
+Blue,Attrited Customer,714052158,40,High School,M,$120K +,Married,949,11714,49,2,39,8%
+Blue,Retained Customers,772728933,50,High School,M,$120K +,Married,813,13709,50,2,40,6%
+Blue,Attrited Customer,718577958,30,Unknown,M,$120K +,Married,0,8906,39,2,26,0%
+Blue,Attrited Customer,710590683,30,Unknown,M,$120K +,Married,0,16127,33,2,36,0%
+Blue,Attrited Customer,715321008,30,Unknown,M,$120K +,Married,2517,34516,39,2,36,7%
+Blue,Retained Customers,714199008,50,Unknown,M,$120K +,Married,492,16081,50,2,36,3%
+Blue,Attrited Customer,710899833,30,Graduate,M,$40K - $60K,Married,1408,7758,36,2,18,18%
+Blue,Attrited Customer,709564683,30,Graduate,M,$40K - $60K,Married,0,4739,32,2,22,0%
+Blue,Attrited Customer,720275358,40,Graduate,M,$40K - $60K,Married,0,1889,47,2,30,0%
+Blue,Retained Customers,715493733,50,Graduate,M,$40K - $60K,Married,0,5735,53,2,36,0%
+Blue,Attrited Customer,713796033,40,Graduate,M,$40K - $60K,Married,0,4738,47,2,42,0%
+Blue,Attrited Customer,789481233,30,High School,M,$40K - $60K,Married,0,2220,39,2,30,0%
+Blue,Attrited Customer,713283933,40,Unknown,M,$40K - $60K,Married,0,3032,42,2,30,0%
+Blue,Retained Customers,755212608,50,Unknown,M,$40K - $60K,Married,0,13067,50,2,43,0%
+Blue,Attrited Customer,715649358,30,College,M,$60K - $80K,Married,0,3879,39,2,26,0%
+Blue,Attrited Customer,708170508,30,Graduate,M,$60K - $80K,Married,0,1438.3,38,2,36,0%
+Blue,Attrited Customer,713886333,40,High School,M,$60K - $80K,Married,728,18660,47,2,39,4%
+Blue,Retained Customers,708867408,50,High School,M,$60K - $80K,Married,1958,23128,52,2,40,9%
+Blue,Retained Customers,810974958,50,High School,M,$60K - $80K,Married,1760,4123,51,2,46,43%
+Blue,Attrited Customer,720962208,40,Post-Graduate,M,$60K - $80K,Married,2250,2476,42,2,27,91%
+Blue,Attrited Customer,789412458,40,Post-Graduate,M,$60K - $80K,Married,2517,23026,44,2,34,11%
+Blue,Attrited Customer,719685408,40,Unknown,M,$60K - $80K,Married,318,6332,40,2,29,5%
+Blue,Attrited Customer,720243933,40,Unknown,M,$60K - $80K,Married,0,1789,47,2,32,0%
+Blue,Retained Customers,718707933,50,Unknown,M,$60K - $80K,Married,382,2189,54,2,35,18%
+Blue,Retained Customers,711323283,50,Unknown,M,$60K - $80K,Married,1030,2527,57,2,41,41%
+Blue,Attrited Customer,816850458,30,Unknown,M,$60K - $80K,Married,0,1698,33,2,28,0%
+Blue,Retained Customers,757854858,50,Unknown,M,$60K - $80K,Married,0,3143,50,2,43,0%
+Blue,Attrited Customer,708841233,40,College,M,$80K - $120K,Married,2517,14682,41,2,33,17%
+Blue,Attrited Customer,779216358,40,College,M,$80K - $120K,Married,0,2111,48,2,38,0%
+Blue,Attrited Customer,708834483,40,Doctorate,M,$80K - $120K,Married,0,17667,46,2,29,0%
+Blue,Attrited Customer,801380808,40,Doctorate,M,$80K - $120K,Married,2517,25894,44,2,38,10%
+Blue,Attrited Customer,718362783,30,Graduate,M,$80K - $120K,Married,0,12643,35,2,27,0%
+Blue,Attrited Customer,717439983,40,Graduate,M,$80K - $120K,Married,2517,14774,48,2,28,17%
+Blue,Retained Customers,778837083,50,Graduate,M,$80K - $120K,Married,321,12906,50,2,31,3%
+Blue,Attrited Customer,715701033,40,Graduate,M,$80K - $120K,Married,1761,2111,43,2,33,83%
+Blue,Attrited Customer,712113558,40,Graduate,M,$80K - $120K,Married,1273,24844,45,2,36,5%
+Blue,Attrited Customer,715825458,40,Graduate,M,$80K - $120K,Married,2239,12933,47,2,36,17%
+Blue,Attrited Customer,720150858,30,High School,M,$80K - $120K,Married,0,1439,34,2,25,0%
+Blue,Attrited Customer,718791708,40,High School,M,$80K - $120K,Married,2268,16362,48,2,32,14%
+Blue,Attrited Customer,771833433,40,High School,M,$80K - $120K,Married,0,29893,49,2,38,0%
+Blue,Retained Customers,721126833,50,High School,M,$80K - $120K,Married,0,14902,51,2,41,0%
+Blue,Attrited Customer,708301683,40,Unknown,M,$80K - $120K,Married,1059,20798,40,2,30,5%
+Blue,Attrited Customer,768490458,40,Unknown,M,$80K - $120K,Married,2517,5701,49,2,43,44%
+Blue,Attrited Customer,709803258,40,Unknown,M,$80K - $120K,Married,0,12073,48,2,28,0%
+Blue,Retained Customers,778910883,50,Unknown,M,$80K - $120K,Married,875,1837,53,2,34,48%
+Blue,Attrited Customer,713399583,40,Unknown,M,$80K - $120K,Married,2097,29865,49,2,39,7%
+Blue,Retained Customers,715622508,50,Unknown,M,$80K - $120K,Married,0,7904,52,2,41,0%
+Blue,Retained Customers,717631908,50,Unknown,M,Less than $40K,Married,0,4390,56,2,44,0%
+Blue,Attrited Customer,787505133,30,College,M,$120K +,Married,1599,11316,36,3,24,14%
+Blue,Attrited Customer,768162108,40,College,M,$120K +,Married,0,4781,49,3,43,0%
+Blue,Attrited Customer,719816583,40,Doctorate,M,$120K +,Married,552,8989,46,3,38,6%
+Blue,Retained Customers,758753283,50,Doctorate,M,$120K +,Married,550,34516,52,3,45,2%
+Blue,Attrited Customer,708736608,40,Graduate,M,$120K +,Married,0,2269,40,3,27,0%
+Blue,Attrited Customer,712693908,40,Graduate,M,$120K +,Married,783,13883,43,3,31,6%
+Blue,Retained Customers,718711158,50,Graduate,M,$120K +,Married,2517,3841,52,3,36,66%
+Blue,Retained Customers,710819733,50,Graduate,M,$120K +,Married,0,12211,56,3,36,0%
+Blue,Attrited Customer,711854808,40,High School,M,$120K +,Married,0,34516,41,3,32,0%
+Blue,Attrited Customer,708856983,30,Post-Graduate,M,$120K +,Married,0,13873,36,3,27,0%
+Blue,Attrited Customer,718113633,40,Unknown,M,$120K +,Married,0,34516,41,3,36,0%
+Blue,Attrited Customer,715319958,40,Unknown,M,$120K +,Married,787,34516,48,3,36,2%
+Blue,Attrited Customer,787518258,40,Unknown,M,$120K +,Married,0,8549,49,3,38,0%
+Blue,Attrited Customer,712531008,40,Unknown,M,$120K +,Married,794,24868,43,3,34,3%
+Blue,Attrited Customer,712593933,40,Doctorate,M,$40K - $60K,Married,0,2313,40,3,36,0%
+Blue,Attrited Customer,719859033,30,Graduate,M,$40K - $60K,Married,0,3264,32,3,20,0%
+Blue,Attrited Customer,711389358,40,Graduate,M,$40K - $60K,Married,2517,5791,42,3,23,44%
+Blue,Attrited Customer,716244033,40,Graduate,M,$40K - $60K,Married,906,7266,44,3,33,13%
+Blue,Attrited Customer,719099583,40,Graduate,M,$40K - $60K,Married,1444,1640,42,3,34,88%
+Blue,Attrited Customer,719657583,40,Graduate,M,$40K - $60K,Married,2457,9502,44,3,40,26%
+Blue,Attrited Customer,811076883,40,Graduate,M,$40K - $60K,Married,0,7979,45,3,40,0%
+Blue,Retained Customers,789853533,50,High School,M,$40K - $60K,Married,0,3032,54,3,44,0%
+Blue,Attrited Customer,709893858,40,Post-Graduate,M,$40K - $60K,Married,2108,9422,43,3,36,22%
+Blue,Attrited Customer,715954158,40,Post-Graduate,M,$40K - $60K,Married,931,2954,48,3,36,32%
+Blue,Attrited Customer,787460883,40,Unknown,M,$40K - $60K,Married,0,11091,41,3,28,0%
+Blue,Attrited Customer,710064033,40,Unknown,M,$40K - $60K,Married,0,4572,45,3,28,0%
+Blue,Attrited Customer,712163433,40,Unknown,M,$40K - $60K,Married,644,1684,47,3,29,38%
+Blue,Attrited Customer,717664008,30,College,M,$60K - $80K,Married,2517,3100,37,3,19,81%
+Blue,Attrited Customer,708653958,30,College,M,$60K - $80K,Married,1461,6114,38,3,36,24%
+Blue,Attrited Customer,757194408,40,College,M,$60K - $80K,Married,0,1438.3,43,3,36,0%
+Blue,Attrited Customer,708963258,40,College,M,$60K - $80K,Married,1907,13344,46,3,39,14%
+Blue,Attrited Customer,708705783,40,Doctorate,M,$60K - $80K,Married,1214,1584,47,3,36,77%
+Blue,Attrited Customer,712021233,30,Graduate,M,$60K - $80K,Married,0,23399,33,3,15,0%
+Blue,Attrited Customer,711079308,40,Graduate,M,$60K - $80K,Married,0,15186,40,3,27,0%
+Blue,Attrited Customer,711838008,30,Graduate,M,$60K - $80K,Married,478,6407,37,3,28,8%
+Blue,Attrited Customer,717195933,40,Graduate,M,$60K - $80K,Married,0,5298,42,3,30,0%
+Blue,Attrited Customer,761079783,40,Graduate,M,$60K - $80K,Married,442,5500,40,3,33,8%
+Blue,Attrited Customer,780032208,40,Graduate,M,$60K - $80K,Married,0,14201,44,3,34,0%
+Blue,Attrited Customer,716832858,40,Graduate,M,$60K - $80K,Married,159,4930,46,3,34,3%
+Blue,Attrited Customer,716790633,40,Graduate,M,$60K - $80K,Married,0,17239,43,3,36,0%
+Blue,Attrited Customer,712279683,40,Graduate,M,$60K - $80K,Married,0,9114,44,3,36,0%
+Blue,Attrited Customer,720185058,40,Graduate,M,$60K - $80K,Married,0,4267,46,3,36,0%
+Blue,Attrited Customer,710333883,40,Graduate,M,$60K - $80K,Married,390,8808,48,3,37,4%
+Blue,Retained Customers,709536483,50,Graduate,M,$60K - $80K,Married,215,8701,57,3,49,3%
+Blue,Attrited Customer,713004933,40,High School,M,$60K - $80K,Married,2332,6813,40,3,27,34%
+Blue,Retained Customers,778433283,50,High School,M,$60K - $80K,Married,0,8989,51,3,31,0%
+Blue,Attrited Customer,713639058,40,High School,M,$60K - $80K,Married,0,1511,49,3,34,0%
+Blue,Attrited Customer,717774333,40,High School,M,$60K - $80K,Married,0,8431,48,3,36,0%
+Blue,Attrited Customer,718626033,40,High School,M,$60K - $80K,Married,0,10061,47,3,39,0%
+Blue,Retained Customers,813810333,50,Post-Graduate,M,$60K - $80K,Married,0,2049,50,3,45,0%
+Blue,Attrited Customer,712829808,30,Unknown,M,$60K - $80K,Married,0,2187,39,3,29,0%
+Blue,Retained Customers,807584958,50,Unknown,M,$60K - $80K,Married,0,21096,50,3,45,0%
+Blue,Attrited Customer,804415083,40,Unknown,M,$60K - $80K,Married,655,4097,45,3,40,16%
+Blue,Attrited Customer,779320008,40,College,M,$80K - $120K,Married,2517,2900,43,3,25,87%
+Blue,Attrited Customer,778617708,40,College,M,$80K - $120K,Married,864,1438.3,46,3,26,60%
+Blue,Attrited Customer,712120608,30,College,M,$80K - $120K,Married,1884,3575,35,3,27,53%
+Blue,Attrited Customer,709537683,30,College,M,$80K - $120K,Married,926,11638,37,3,30,8%
+Blue,Attrited Customer,714930333,30,College,M,$80K - $120K,Married,0,4618,39,3,30,0%
+Blue,Attrited Customer,708158133,40,College,M,$80K - $120K,Married,2517,3031,45,3,36,83%
+Blue,Attrited Customer,716279508,40,College,M,$80K - $120K,Married,2517,3430,48,3,41,73%
+Blue,Attrited Customer,718673358,30,Doctorate,M,$80K - $120K,Married,1528,13590,35,3,30,11%
+Blue,Retained Customers,708888633,50,Doctorate,M,$80K - $120K,Married,895,3022,52,3,36,30%
+Blue,Attrited Customer,794675058,30,Graduate,M,$80K - $120K,Married,1963,5015,36,3,21,39%
+Blue,Attrited Customer,720330558,40,Graduate,M,$80K - $120K,Married,966,25256,44,3,25,4%
+Blue,Attrited Customer,714412308,30,Graduate,M,$80K - $120K,Married,0,7140,33,3,36,0%
+Blue,Attrited Customer,713053383,40,Graduate,M,$80K - $120K,Married,781,34516,42,3,36,2%
+Blue,Attrited Customer,771899433,40,Graduate,M,$80K - $120K,Married,2434,7970,48,3,37,31%
+Blue,Attrited Customer,719146008,40,Graduate,M,$80K - $120K,Married,2517,18672,48,3,39,14%
+Blue,Attrited Customer,715371108,40,Graduate,M,$80K - $120K,Married,0,3728,45,3,40,0%
+Blue,Attrited Customer,789907533,40,Graduate,M,$80K - $120K,Married,193,4576,49,3,40,4%
+Blue,Retained Customers,793712658,50,Graduate,M,$80K - $120K,Married,2517,15011,52,3,46,17%
+Blue,Attrited Customer,720950283,40,High School,M,$80K - $120K,Married,0,21359,47,3,34,0%
+Blue,Attrited Customer,716434533,40,High School,M,$80K - $120K,Married,0,29149,40,3,36,0%
+Blue,Attrited Customer,709213458,40,High School,M,$80K - $120K,Married,0,22993,42,3,36,0%
+Blue,Attrited Customer,712157958,40,High School,M,$80K - $120K,Married,0,10908,44,3,36,0%
+Blue,Retained Customers,822084333,50,High School,M,$80K - $120K,Married,0,4041,51,3,47,0%
+Blue,Retained Customers,768243858,50,High School,M,$80K - $120K,Married,2517,3288,54,3,48,77%
+Blue,Attrited Customer,719917233,40,Post-Graduate,M,$80K - $120K,Married,1159,13382,49,3,36,9%
+Blue,Attrited Customer,827984658,40,Post-Graduate,M,$80K - $120K,Married,0,23870,49,3,45,0%
+Blue,Attrited Customer,787515333,40,Unknown,M,$80K - $120K,Married,1151,3616,40,3,29,32%
+Blue,Attrited Customer,715671183,40,Unknown,M,$80K - $120K,Married,2517,6824,43,3,31,37%
+Blue,Attrited Customer,719073483,40,Unknown,M,$80K - $120K,Married,0,9234,45,3,38,0%
+Blue,Attrited Customer,720124758,40,Unknown,M,$80K - $120K,Married,450,2509,49,3,40,18%
+Blue,Retained Customers,788095158,50,Unknown,M,$80K - $120K,Married,0,11606,52,3,44,0%
+Blue,Retained Customers,714524583,50,Unknown,M,$80K - $120K,Married,1534,23240,56,3,46,7%
+Blue,Attrited Customer,772922883,40,Unknown,M,$80K - $120K,Married,0,20543,41,3,22,0%
+Blue,Retained Customers,719902908,50,Unknown,M,$80K - $120K,Married,0,5130,51,3,36,0%
+Blue,Attrited Customer,826471458,40,Graduate,M,Less than $40K,Married,1767,6967,42,3,38,25%
+Blue,Attrited Customer,719318583,30,High School,M,Less than $40K,Married,2389,6866,37,3,26,35%
+Blue,Attrited Customer,768256908,40,Unknown,M,Less than $40K,Married,1636,8580,45,3,39,19%
+Blue,Attrited Customer,814840833,40,Doctorate,M,$120K +,Married,2517,7924,44,4,39,32%
+Blue,Retained Customers,716708583,50,Graduate,M,$120K +,Married,0,7684,54,4,36,0%
+Blue,Retained Customers,714136233,50,Graduate,M,$120K +,Married,0,34516,53,4,38,0%
+Blue,Attrited Customer,716754783,40,High School,M,$120K +,Married,1331,17228,43,4,30,8%
+Blue,Attrited Customer,710484408,30,Post-Graduate,M,$120K +,Married,1742,8700,39,4,29,20%
+Blue,Attrited Customer,716694108,40,Unknown,M,$120K +,Married,468,5195,42,4,34,9%
+Blue,Attrited Customer,716390958,40,Unknown,M,$120K +,Married,0,26107,45,4,31,0%
+Blue,Attrited Customer,717696333,40,Unknown,M,$120K +,Married,0,34516,44,4,36,0%
+Blue,Attrited Customer,713084208,40,College,M,$40K - $60K,Married,0,4373,43,4,32,0%
+Blue,Attrited Customer,771776808,40,Unknown,M,$40K - $60K,Married,0,1527,44,4,33,0%
+Blue,Retained Customers,780126033,50,Unknown,M,$40K - $60K,Married,1227,12914,50,4,35,10%
+Blue,Attrited Customer,718110858,40,Unknown,M,$40K - $60K,Married,0,1606,42,4,36,0%
+Blue,Attrited Customer,714559458,40,College,M,$60K - $80K,Married,0,1681,46,4,36,0%
+Blue,Attrited Customer,721041483,40,Doctorate,M,$60K - $80K,Married,2517,13093,45,4,37,19%
+Blue,Retained Customers,715732533,50,Graduate,M,$60K - $80K,Married,1625,9375,52,4,36,17%
+Blue,Attrited Customer,801715383,40,Graduate,M,$60K - $80K,Married,0,12890,45,4,39,0%
+Blue,Attrited Customer,712164333,40,High School,M,$60K - $80K,Married,1636,12544,40,4,29,13%
+Blue,Attrited Customer,711904008,40,High School,M,$60K - $80K,Married,0,5869,40,4,36,0%
+Blue,Attrited Customer,716950758,40,High School,M,$60K - $80K,Married,0,8017,46,4,36,0%
+Blue,Retained Customers,719328858,50,High School,M,$60K - $80K,Married,0,4535,56,4,43,0%
+Blue,Attrited Customer,806947308,40,Post-Graduate,M,$60K - $80K,Married,1553,20178,40,4,35,8%
+Blue,Attrited Customer,802834158,40,Unknown,M,$60K - $80K,Married,1737,6743,42,4,36,26%
+Blue,Attrited Customer,712050933,40,College,M,$80K - $120K,Married,0,25190,48,4,32,0%
+Blue,Attrited Customer,827440458,40,College,M,$80K - $120K,Married,1449,9524,48,4,44,15%
+Blue,Attrited Customer,711562833,30,Graduate,M,$80K - $120K,Married,0,12634,35,4,24,0%
+Blue,Attrited Customer,714527433,30,Graduate,M,$80K - $120K,Married,0,17523,39,4,30,0%
+Blue,Attrited Customer,714879483,30,Graduate,M,$80K - $120K,Married,542,3929,39,4,31,14%
+Blue,Attrited Customer,720654183,40,Graduate,M,$80K - $120K,Married,1307,23542,45,4,35,6%
+Blue,Attrited Customer,710162133,40,Graduate,M,$80K - $120K,Married,1253,4725,41,4,36,27%
+Blue,Attrited Customer,721532583,40,Graduate,M,$80K - $120K,Married,2165,12250,45,4,36,18%
+Blue,Attrited Customer,713632983,40,High School,M,$80K - $120K,Married,503,10588,43,4,35,5%
+Blue,Attrited Customer,712627083,30,Unknown,M,$80K - $120K,Married,0,5768,38,4,25,0%
+Blue,Attrited Customer,710284233,30,Unknown,M,$80K - $120K,Married,0,1438.3,33,4,36,0%
+Blue,Attrited Customer,822132858,40,Unknown,M,$80K - $120K,Married,0,23250,41,4,37,0%
+Blue,Attrited Customer,719547033,40,Unknown,M,$80K - $120K,Married,0,23502,40,4,31,0%
+Blue,Attrited Customer,708121908,40,Unknown,M,$80K - $120K,Married,0,22917,48,4,36,0%
+Blue,Attrited Customer,711249858,40,Unknown,M,$80K - $120K,Married,0,29890,49,4,38,0%
+Blue,Attrited Customer,757291008,40,Unknown,M,$80K - $120K,Married,289,34516,46,4,39,1%
+Blue,Attrited Customer,717840108,40,Unknown,M,$80K - $120K,Married,1357,4806,48,4,41,28%
+Blue,Attrited Customer,708340758,40,High School,M,Less than $40K,Married,0,7769,41,4,32,0%
+Blue,Retained Customers,709520058,50,Unknown,M,$120K +,Married,0,19138,53,5,38,0%
+Blue,Attrited Customer,716711433,40,High School,M,$40K - $60K,Married,157,7897,48,5,39,2%
+Blue,Attrited Customer,804673308,40,Unknown,M,$40K - $60K,Married,0,3893,49,5,44,0%
+Blue,Attrited Customer,785237958,40,College,M,$60K - $80K,Married,0,3439,45,5,39,0%
+Blue,Attrited Customer,779571708,40,Graduate,M,$60K - $80K,Married,0,4259,43,5,25,0%
+Blue,Attrited Customer,711382458,40,Graduate,M,$60K - $80K,Married,0,1438.3,43,5,38,0%
+Blue,Attrited Customer,715306983,40,High School,M,$60K - $80K,Married,0,1866,42,5,36,0%
+Blue,Attrited Customer,778397358,40,Unknown,M,$60K - $80K,Married,0,5096,42,5,22,0%
+Blue,Attrited Customer,710552733,40,Unknown,M,$60K - $80K,Married,0,4963,42,5,36,0%
+Blue,Attrited Customer,714659133,40,High School,M,$80K - $120K,Married,0,9410,47,5,37,0%
+Blue,Retained Customers,712487883,50,High School,M,$80K - $120K,Married,0,7464,54,5,48,0%
+Blue,Attrited Customer,716881683,40,Unknown,M,$80K - $120K,Married,2517,3435,45,5,34,73%
+Blue,Retained Customers,709977933,50,Unknown,M,$80K - $120K,Married,199,9959,52,5,44,2%
+Gold,Attrited Customer,708564858,30,College,M,$120K +,Married,0,34516,33,2,20,0%
+Gold,Attrited Customer,710178558,40,High School,M,$60K - $80K,Married,2517,34516,46,2,38,7%
+Gold,Attrited Customer,718304583,40,Unknown,M,$60K - $80K,Married,1085,34516,43,2,33,3%
+Gold,Attrited Customer,714391683,30,Unknown,M,$60K - $80K,Married,2517,34516,39,4,36,7%
+Platinum,Attrited Customer,714077583,40,Post-Graduate,M,$40K - $60K,Married,593,23981,43,3,31,3%
+Silver,Retained Customers,808747233,50,Doctorate,M,$120K +,Married,0,34516,50,2,45,0%
+Silver,Retained Customers,789013833,50,High School,M,$120K +,Married,399,34516,50,2,37,1%
+Silver,Attrited Customer,713242383,30,Unknown,M,$120K +,Married,796,34516,39,2,19,2%
+Silver,Attrited Customer,719881533,40,College,M,$40K - $60K,Married,0,16547,46,2,34,0%
+Silver,Retained Customers,720122808,50,High School,M,$60K - $80K,Married,511,33180,52,2,35,2%
+Silver,Attrited Customer,708805908,30,Graduate,M,Less than $40K,Married,726,10017,30,2,18,7%
+Silver,Attrited Customer,708662583,40,Unknown,M,$60K - $80K,Married,0,27945,41,3,29,0%
+Silver,Retained Customers,708948483,50,Graduate,M,$80K - $120K,Married,761,34516,54,3,36,2%
+Silver,Retained Customers,714959358,50,High School,M,$80K - $120K,Married,2292,34516,50,3,36,7%
+Silver,Retained Customers,788943333,50,Post-Graduate,M,$80K - $120K,Married,989,34516,51,3,37,3%
+Silver,Attrited Customer,714757083,40,Unknown,M,$60K - $80K,Married,0,29076,44,4,37,0%
+Silver,Attrited Customer,770968383,40,Graduate,M,$80K - $120K,Married,825,34516,41,4,28,2%
+Silver,Attrited Customer,797491683,40,Unknown,M,$80K - $120K,Married,1964,34516,45,5,39,6%
+Blue,Attrited Customer,753220383,20,Graduate,M,$120K +,Single,0,11722,29,0,22,0%
+Blue,Retained Customers,720815208,50,High School,M,$120K +,Single,216,34516,52,0,39,1%
+Blue,Attrited Customer,766821033,60,Unknown,M,$120K +,Single,1162,4650,61,0,46,25%
+Blue,Retained Customers,821768658,50,Unknown,M,$120K +,Single,2247,13114,52,0,48,17%
+Blue,Attrited Customer,816261858,60,Graduate,M,$40K - $60K,Single,2245,3984,61,0,56,56%
+Blue,Attrited Customer,713259858,20,High School,M,$40K - $60K,Single,0,3324,26,0,15,0%
+Blue,Attrited Customer,714820158,20,High School,M,$40K - $60K,Single,660,5988,29,0,36,11%
+Blue,Attrited Customer,712265508,30,Post-Graduate,M,$40K - $60K,Single,0,4015,32,0,14,0%
+Blue,Retained Customers,716721483,50,Unknown,M,$40K - $60K,Single,2017,14458,59,0,52,14%
+Blue,Retained Customers,708083283,50,Unknown,M,$40K - $60K,Single,2517,3421,58,0,45,74%
+Blue,Attrited Customer,800758233,30,College,M,$60K - $80K,Single,0,4109,30,0,24,0%
+Blue,Attrited Customer,713318733,30,College,M,$60K - $80K,Single,0,4097,32,0,24,0%
+Blue,Attrited Customer,716056158,60,Graduate,M,$60K - $80K,Single,0,11619,63,0,51,0%
+Blue,Attrited Customer,713924283,60,Graduate,M,$60K - $80K,Single,1644,11859,61,0,54,14%
+Blue,Attrited Customer,714915633,40,High School,M,$60K - $80K,Single,0,15699,42,0,36,0%
+Blue,Retained Customers,715799808,50,High School,M,$60K - $80K,Single,0,3764,52,0,39,0%
+Blue,Attrited Customer,720529308,60,High School,M,$60K - $80K,Single,0,1856,63,0,48,0%
+Blue,Attrited Customer,709005633,60,High School,M,$60K - $80K,Single,0,18734,62,0,51,0%
+Blue,Retained Customers,804829533,50,High School,M,$60K - $80K,Single,471,24621,59,0,54,2%
+Blue,Attrited Customer,719714658,60,Post-Graduate,M,$60K - $80K,Single,0,12218,61,0,43,0%
+Blue,Attrited Customer,719767683,40,College,M,$80K - $120K,Single,0,16983,46,0,39,0%
+Blue,Attrited Customer,711794358,60,College,M,$80K - $120K,Single,0,21398,61,0,50,0%
+Blue,Attrited Customer,787463508,20,Graduate,M,Less than $40K,Single,2410,2469,26,0,13,98%
+Blue,Attrited Customer,716306583,60,Graduate,M,Less than $40K,Single,2517,3812,64,0,36,66%
+Blue,Attrited Customer,718515483,60,Graduate,M,Less than $40K,Single,2517,3570,64,0,52,71%
+Blue,Attrited Customer,817332483,60,Doctorate,M,Unknown,Single,0,7306,63,0,47,0%
+Blue,Attrited Customer,712777233,60,Graduate,M,Unknown,Single,0,1671,65,0,48,0%
+Blue,Attrited Customer,717103758,60,Graduate,M,Unknown,Single,0,18550,63,0,55,0%
+Blue,Retained Customers,712307283,50,College,M,$120K +,Single,2517,9090,54,1,37,28%
+Blue,Retained Customers,720761208,50,College,M,$120K +,Single,357,4789,59,1,47,8%
+Blue,Attrited Customer,717368208,40,Graduate,M,$120K +,Single,0,26723,49,1,36,0%
+Blue,Attrited Customer,712656783,40,Graduate,M,$120K +,Single,2517,8136,49,1,36,31%
+Blue,Retained Customers,718220358,50,Graduate,M,$120K +,Single,0,28618,58,1,36,0%
+Blue,Attrited Customer,716212383,30,High School,M,$120K +,Single,2415,10874,38,1,30,22%
+Blue,Attrited Customer,720128658,40,Unknown,M,$120K +,Single,0,5181,49,1,30,0%
+Blue,Retained Customers,780292683,50,Unknown,M,$120K +,Single,2354,24542,55,1,41,10%
+Blue,Retained Customers,711746133,50,Unknown,M,$120K +,Single,0,32563,50,1,37,0%
+Blue,Attrited Customer,714615258,30,High School,M,$40K - $60K,Single,2134,4819,32,1,36,44%
+Blue,Attrited Customer,714684108,30,Post-Graduate,M,$40K - $60K,Single,534,4169,31,1,24,13%
+Blue,Attrited Customer,803800533,30,Unknown,M,$40K - $60K,Single,975,2088,39,1,33,47%
+Blue,Retained Customers,710155983,50,Unknown,M,$40K - $60K,Single,0,4826,52,1,36,0%
+Blue,Attrited Customer,708186933,30,Graduate,M,$60K - $80K,Single,725,1819,33,1,36,40%
+Blue,Attrited Customer,717035283,40,Graduate,M,$60K - $80K,Single,848,2445,46,1,37,35%
+Blue,Attrited Customer,827117808,40,Graduate,M,$60K - $80K,Single,2513,9904,45,1,41,25%
+Blue,Attrited Customer,772286658,60,Graduate,M,$60K - $80K,Single,2507,14324,63,1,52,18%
+Blue,Attrited Customer,822955008,60,Graduate,M,$60K - $80K,Single,0,9569,63,1,56,0%
+Blue,Attrited Customer,710639658,20,High School,M,$60K - $80K,Single,829,17744,29,1,17,5%
+Blue,Attrited Customer,711332883,60,High School,M,$60K - $80K,Single,2477,7547,62,1,46,33%
+Blue,Attrited Customer,713334483,40,Post-Graduate,M,$60K - $80K,Single,0,8766,46,1,32,0%
+Blue,Retained Customers,713953383,50,Post-Graduate,M,$60K - $80K,Single,0,2317,50,1,36,0%
+Blue,Retained Customers,720044658,50,Post-Graduate,M,$60K - $80K,Single,2076,4573,53,1,46,45%
+Blue,Retained Customers,720512433,50,Unknown,M,$60K - $80K,Single,2281,15219,56,1,36,15%
+Blue,Retained Customers,711100608,50,Unknown,M,$60K - $80K,Single,0,1723,55,1,48,0%
+Blue,Attrited Customer,709161108,40,Unknown,M,$60K - $80K,Single,0,2540,44,1,33,0%
+Blue,Retained Customers,789095958,50,Unknown,M,$60K - $80K,Single,744,7603,50,1,38,10%
+Blue,Retained Customers,769396158,50,College,M,$80K - $120K,Single,0,24884,55,1,43,0%
+Blue,Retained Customers,709713033,50,College,M,$80K - $120K,Single,0,6846,55,1,48,0%
+Blue,Attrited Customer,708536283,30,Doctorate,M,$80K - $120K,Single,2517,2904,35,1,27,87%
+Blue,Retained Customers,712457208,50,Graduate,M,$80K - $120K,Single,0,22718,58,1,36,0%
+Blue,Retained Customers,710679933,50,Graduate,M,$80K - $120K,Single,0,15633,59,1,54,0%
+Blue,Retained Customers,713815383,50,High School,M,$80K - $120K,Single,0,11778,53,1,36,0%
+Blue,Retained Customers,720698883,50,High School,M,$80K - $120K,Single,0,28605,51,1,38,0%
+Blue,Retained Customers,712715208,50,High School,M,$80K - $120K,Single,0,3770,52,1,44,0%
+Blue,Attrited Customer,714938733,40,Post-Graduate,M,$80K - $120K,Single,0,13174,48,1,38,0%
+Blue,Attrited Customer,718558758,30,Unknown,M,$80K - $120K,Single,1413,3711,34,1,22,38%
+Blue,Retained Customers,715113933,50,Unknown,M,$80K - $120K,Single,573,11077,54,1,36,5%
+Blue,Retained Customers,712378983,50,Unknown,M,$80K - $120K,Single,965,7570,54,1,47,13%
+Blue,Attrited Customer,708496833,60,High School,M,Less than $40K,Single,0,4613,60,1,50,0%
+Blue,Attrited Customer,715651833,60,Unknown,M,Less than $40K,Single,0,2351,65,1,36,0%
+Blue,Retained Customers,710081208,50,College,M,$120K +,Single,0,4935,52,2,32,0%
+Blue,Retained Customers,719516208,50,College,M,$120K +,Single,0,34516,54,2,36,0%
+Blue,Attrited Customer,717930483,30,Graduate,M,$120K +,Single,0,5616,37,2,25,0%
+Blue,Attrited Customer,716425833,30,Graduate,M,$120K +,Single,1229,34516,38,2,36,4%
+Blue,Attrited Customer,820666083,40,Graduate,M,$120K +,Single,2517,27742,41,2,37,9%
+Blue,Retained Customers,772137183,50,Graduate,M,$120K +,Single,810,31668,52,2,41,3%
+Blue,Retained Customers,790051758,50,Graduate,M,$120K +,Single,0,31782,50,2,42,0%
+Blue,Retained Customers,718812708,50,Graduate,M,$120K +,Single,219,34516,57,2,44,1%
+Blue,Retained Customers,802673508,50,Graduate,M,$120K +,Single,0,8760,57,2,51,0%
+Blue,Attrited Customer,771097683,40,High School,M,$120K +,Single,2517,10896,43,2,30,23%
+Blue,Attrited Customer,793630083,30,High School,M,$120K +,Single,1476,1726,39,2,33,86%
+Blue,Attrited Customer,720234708,40,High School,M,$120K +,Single,0,15490,45,2,33,0%
+Blue,Retained Customers,779931783,50,High School,M,$120K +,Single,0,34516,52,2,38,0%
+Blue,Retained Customers,789497283,50,High School,M,$120K +,Single,1723,34162,50,2,42,5%
+Blue,Retained Customers,713158083,50,High School,M,$120K +,Single,0,7327,56,2,46,0%
+Blue,Attrited Customer,716922633,30,Unknown,M,$120K +,Single,2517,4043,38,2,30,62%
+Blue,Retained Customers,720427683,50,Unknown,M,$120K +,Single,0,16163,58,2,46,0%
+Blue,Retained Customers,708354858,50,Unknown,M,$120K +,Single,0,14938,51,2,42,0%
+Blue,Attrited Customer,802243458,40,Doctorate,M,$40K - $60K,Single,0,2760,48,2,42,0%
+Blue,Attrited Customer,713104458,40,Graduate,M,$40K - $60K,Single,0,7869,46,2,31,0%
+Blue,Attrited Customer,717874533,40,High School,M,$40K - $60K,Single,0,6362,46,2,36,0%
+Blue,Retained Customers,709413933,50,High School,M,$40K - $60K,Single,651,2381,56,2,40,27%
+Blue,Attrited Customer,712563408,30,Unknown,M,$40K - $60K,Single,2517,5600,33,2,18,45%
+Blue,Retained Customers,823615983,50,Unknown,M,$40K - $60K,Single,2517,3682,54,2,50,68%
+Blue,Retained Customers,802247658,50,Unknown,M,$40K - $60K,Single,2422,2699,59,2,53,90%
+Blue,Attrited Customer,720010608,30,Unknown,M,$40K - $60K,Single,0,10226,37,2,24,0%
+Blue,Attrited Customer,788838033,40,College,M,$60K - $80K,Single,0,3841,45,2,29,0%
+Blue,Attrited Customer,714089658,40,Graduate,M,$60K - $80K,Single,0,2238,41,2,36,0%
+Blue,Retained Customers,767404083,50,Graduate,M,$60K - $80K,Single,0,3460,52,2,45,0%
+Blue,Retained Customers,713514633,50,Graduate,M,$60K - $80K,Single,0,6224,59,2,50,0%
+Blue,Attrited Customer,713822208,40,High School,M,$60K - $80K,Single,493,4836,42,2,33,10%
+Blue,Attrited Customer,808273533,30,High School,M,$60K - $80K,Single,0,1818,39,2,34,0%
+Blue,Attrited Customer,715051608,30,High School,M,$60K - $80K,Single,2517,9719,34,2,36,26%
+Blue,Attrited Customer,720130233,40,High School,M,$60K - $80K,Single,0,1641,48,2,36,0%
+Blue,Attrited Customer,720565458,40,Post-Graduate,M,$60K - $80K,Single,0,17306,43,2,36,0%
+Blue,Attrited Customer,714475908,40,Unknown,M,$60K - $80K,Single,0,6348,43,2,35,0%
+Blue,Attrited Customer,709249083,40,Unknown,M,$60K - $80K,Single,0,4283,40,2,20,0%
+Blue,Attrited Customer,713314533,40,Unknown,M,$60K - $80K,Single,0,12283,40,2,27,0%
+Blue,Attrited Customer,819647358,30,Unknown,M,$60K - $80K,Single,0,12871,38,2,33,0%
+Blue,Retained Customers,713880633,50,Unknown,M,$60K - $80K,Single,0,5905,53,2,43,0%
+Blue,Retained Customers,711613308,50,Unknown,M,$60K - $80K,Single,710,2236,58,2,48,32%
+Blue,Attrited Customer,710500983,40,College,M,$80K - $120K,Single,1035,4617,43,2,34,22%
+Blue,Attrited Customer,714014733,30,College,M,$80K - $120K,Single,1431,9642,33,2,36,15%
+Blue,Attrited Customer,713269533,40,College,M,$80K - $120K,Single,2517,9959,42,2,36,25%
+Blue,Attrited Customer,715294083,40,College,M,$80K - $120K,Single,0,10309,46,2,38,0%
+Blue,Retained Customers,794707083,50,College,M,$80K - $120K,Single,0,3495,50,2,44,0%
+Blue,Retained Customers,757667133,50,College,M,$80K - $120K,Single,0,13769,54,2,47,0%
+Blue,Attrited Customer,715664808,40,Graduate,M,$80K - $120K,Single,0,34516,43,2,30,0%
+Blue,Retained Customers,713474733,50,Graduate,M,$80K - $120K,Single,327,1438.3,51,2,31,23%
+Blue,Attrited Customer,721437333,40,Graduate,M,$80K - $120K,Single,2517,5054,46,2,36,50%
+Blue,Retained Customers,718197108,50,Graduate,M,$80K - $120K,Single,0,12342,54,2,36,0%
+Blue,Retained Customers,718766058,50,Graduate,M,$80K - $120K,Single,0,1438.3,56,2,36,0%
+Blue,Attrited Customer,802668333,40,Graduate,M,$80K - $120K,Single,1919,2384,49,2,43,81%
+Blue,Retained Customers,821149008,50,Graduate,M,$80K - $120K,Single,0,34516,52,2,48,0%
+Blue,Attrited Customer,709102458,40,High School,M,$80K - $120K,Single,0,4754,47,2,36,0%
+Blue,Retained Customers,721233033,50,High School,M,$80K - $120K,Single,464,4915,50,2,38,9%
+Blue,Retained Customers,710278458,50,High School,M,$80K - $120K,Single,2517,11617,52,2,43,22%
+Blue,Retained Customers,806140383,50,High School,M,$80K - $120K,Single,2396,2791,59,2,54,86%
+Blue,Attrited Customer,819610908,30,Unknown,M,$80K - $120K,Single,2089,32938,38,2,33,6%
+Blue,Retained Customers,713131158,50,Unknown,M,$80K - $120K,Single,0,10286,58,2,46,0%
+Blue,Retained Customers,781306758,50,Unknown,M,$80K - $120K,Single,2517,3091,58,2,52,81%
+Blue,Attrited Customer,717202083,40,Unknown,M,$80K - $120K,Single,0,7077,46,2,34,0%
+Blue,Attrited Customer,718913358,30,Graduate,M,Less than $40K,Single,2517,4225,36,2,36,60%
+Blue,Attrited Customer,714962658,30,Unknown,M,Less than $40K,Single,0,1931,35,2,36,0%
+Blue,Attrited Customer,719325783,60,Unknown,M,Less than $40K,Single,2517,2954,65,2,36,85%
+Blue,Attrited Customer,719981508,30,Unknown,M,Unknown,Single,0,1649,37,2,24,0%
+Blue,Retained Customers,809951133,50,College,M,$120K +,Single,0,34516,54,3,49,0%
+Blue,Attrited Customer,818459733,40,Doctorate,M,$120K +,Single,0,9220,41,3,26,0%
+Blue,Attrited Customer,717502083,40,Doctorate,M,$120K +,Single,0,6314,41,3,28,0%
+Blue,Retained Customers,819943458,50,Graduate,M,$120K +,Single,1000,34516,57,3,52,3%
+Blue,Attrited Customer,712998033,30,High School,M,$120K +,Single,0,7361,37,3,36,0%
+Blue,Retained Customers,815851233,50,High School,M,$120K +,Single,0,19032,52,3,47,0%
+Blue,Attrited Customer,778191933,40,Unknown,M,$120K +,Single,2517,7135,45,3,35,35%
+Blue,Attrited Customer,713526258,40,Unknown,M,$120K +,Single,0,34516,47,3,36,0%
+Blue,Retained Customers,714102183,50,Unknown,M,$120K +,Single,2282,7970,50,3,36,29%
+Blue,Retained Customers,824140908,50,Unknown,M,$120K +,Single,0,20974,52,3,48,0%
+Blue,Attrited Customer,709709283,30,College,M,$40K - $60K,Single,321,3458,38,3,19,9%
+Blue,Attrited Customer,771638733,40,Doctorate,M,$40K - $60K,Single,0,4354,49,3,37,0%
+Blue,Attrited Customer,780511683,40,Graduate,M,$40K - $60K,Single,232,4413,47,3,34,5%
+Blue,Attrited Customer,710958933,40,Graduate,M,$40K - $60K,Single,787,6080,43,3,35,13%
+Blue,Retained Customers,789382758,50,Graduate,M,$40K - $60K,Single,0,5501,54,3,44,0%
+Blue,Attrited Customer,718840833,40,High School,M,$40K - $60K,Single,0,4601,49,3,36,0%
+Blue,Attrited Customer,769667583,30,Post-Graduate,M,$40K - $60K,Single,0,3744,34,3,28,0%
+Blue,Attrited Customer,769883733,40,Post-Graduate,M,$40K - $60K,Single,0,2344,46,3,40,0%
+Blue,Attrited Customer,721365033,30,Unknown,M,$40K - $60K,Single,0,1696,37,3,36,0%
+Blue,Attrited Customer,717457008,40,Unknown,M,$40K - $60K,Single,0,9267,43,3,36,0%
+Blue,Attrited Customer,709729533,40,Unknown,M,$40K - $60K,Single,457,1809,47,3,39,25%
+Blue,Attrited Customer,713281833,30,Unknown,M,$40K - $60K,Single,2517,13589,37,3,29,19%
+Blue,Attrited Customer,797150733,40,Unknown,M,$40K - $60K,Single,0,1643,44,3,38,0%
+Blue,Attrited Customer,720758808,30,College,M,$60K - $80K,Single,0,16317,38,3,18,0%
+Blue,Attrited Customer,828291858,30,College,M,$60K - $80K,Single,1821,12050,38,3,34,15%
+Blue,Attrited Customer,708419733,40,College,M,$60K - $80K,Single,0,22599,47,3,39,0%
+Blue,Attrited Customer,712751133,40,Doctorate,M,$60K - $80K,Single,1369,11328,42,3,35,12%
+Blue,Attrited Customer,709707033,40,Graduate,M,$60K - $80K,Single,0,13162,45,3,32,0%
+Blue,Retained Customers,778388358,50,Graduate,M,$60K - $80K,Single,855,4742,56,3,36,18%
+Blue,Attrited Customer,716782758,40,Graduate,M,$60K - $80K,Single,0,19075,48,3,42,0%
+Blue,Retained Customers,711432258,50,Graduate,M,$60K - $80K,Single,0,4178,55,3,46,0%
+Blue,Attrited Customer,812449758,40,High School,M,$60K - $80K,Single,0,12254,43,3,38,0%
+Blue,Attrited Customer,789560433,40,Post-Graduate,M,$60K - $80K,Single,0,14895,49,3,42,0%
+Blue,Attrited Customer,717450633,40,Unknown,M,$60K - $80K,Single,1544,1659,47,3,36,93%
+Blue,Attrited Customer,711646908,30,Unknown,M,$60K - $80K,Single,2517,7821,39,3,23,32%
+Blue,Attrited Customer,750995508,40,Unknown,M,$60K - $80K,Single,1046,4697,41,3,32,22%
+Blue,Attrited Customer,772466508,40,Unknown,M,$60K - $80K,Single,2517,18004,45,3,35,14%
+Blue,Retained Customers,817108083,50,Unknown,M,$60K - $80K,Single,1341,14266,55,3,35,9%
+Blue,Attrited Customer,720983733,40,Unknown,M,$60K - $80K,Single,864,15422,44,3,36,6%
+Blue,Retained Customers,712924383,50,Unknown,M,$60K - $80K,Single,979,8411,55,3,36,12%
+Blue,Retained Customers,770220558,50,Unknown,M,$60K - $80K,Single,0,5859,57,3,51,0%
+Blue,Attrited Customer,709297608,30,College,M,$80K - $120K,Single,0,1438.3,38,3,26,0%
+Blue,Attrited Customer,719470458,40,College,M,$80K - $120K,Single,243,4026,46,3,39,6%
+Blue,Attrited Customer,719582058,40,Doctorate,M,$80K - $120K,Single,1629,24001,41,3,29,7%
+Blue,Attrited Customer,708319908,30,Graduate,M,$80K - $120K,Single,1473,4116,37,3,17,36%
+Blue,Attrited Customer,709928358,40,Graduate,M,$80K - $120K,Single,0,32554,40,3,20,0%
+Blue,Attrited Customer,713003358,40,Graduate,M,$80K - $120K,Single,159,29338,40,3,30,1%
+Blue,Attrited Customer,717255333,40,Graduate,M,$80K - $120K,Single,0,6921,40,3,36,0%
+Blue,Attrited Customer,715987758,40,Graduate,M,$80K - $120K,Single,0,3261,49,3,36,0%
+Blue,Retained Customers,714479358,50,Graduate,M,$80K - $120K,Single,1554,3610,51,3,36,43%
+Blue,Attrited Customer,821749608,40,Graduate,M,$80K - $120K,Single,0,19402,41,3,37,0%
+Blue,Attrited Customer,767553333,40,Graduate,M,$80K - $120K,Single,0,8383,45,3,39,0%
+Blue,Attrited Customer,714082308,30,High School,M,$80K - $120K,Single,0,8656,39,3,13,0%
+Blue,Attrited Customer,711816108,40,High School,M,$80K - $120K,Single,0,18563,40,3,29,0%
+Blue,Attrited Customer,709321908,40,High School,M,$80K - $120K,Single,2319,7498,47,3,29,31%
+Blue,Attrited Customer,710455608,40,High School,M,$80K - $120K,Single,0,4620,40,3,36,0%
+Blue,Attrited Customer,708976908,40,Post-Graduate,M,$80K - $120K,Single,0,8958,40,3,36,0%
+Blue,Attrited Customer,721124658,40,Unknown,M,$80K - $120K,Single,0,3427,40,3,27,0%
+Blue,Attrited Customer,708633783,40,Unknown,M,$80K - $120K,Single,0,11336,43,3,30,0%
+Blue,Retained Customers,718826883,50,Unknown,M,$80K - $120K,Single,0,6925,50,3,36,0%
+Blue,Retained Customers,794273283,50,Unknown,M,$80K - $120K,Single,0,25670,51,3,45,0%
+Blue,Attrited Customer,709222008,40,Unknown,M,$80K - $120K,Single,2221,4742,41,3,32,47%
+Blue,Attrited Customer,711325308,40,Unknown,M,$80K - $120K,Single,0,9959,46,3,34,0%
+Blue,Attrited Customer,804833058,40,Unknown,M,$80K - $120K,Single,0,4384,49,3,44,0%
+Blue,Retained Customers,709660233,50,Unknown,M,$80K - $120K,Single,2429,3526,52,3,44,69%
+Blue,Attrited Customer,718735908,40,Graduate,M,$120K +,Single,0,7015,47,4,35,0%
+Blue,Attrited Customer,711012783,40,Graduate,M,$120K +,Single,0,33384,43,4,36,0%
+Blue,Attrited Customer,716654808,40,High School,M,$120K +,Single,0,24593,48,4,39,0%
+Blue,Retained Customers,712075083,50,High School,M,$120K +,Single,0,6982,50,4,41,0%
+Blue,Attrited Customer,720598308,40,Unknown,M,$120K +,Single,1126,34516,47,4,37,3%
+Blue,Attrited Customer,771795933,40,Unknown,M,$120K +,Single,2517,34516,49,4,38,7%
+Blue,Retained Customers,813053733,50,Unknown,M,$120K +,Single,278,34516,53,4,48,1%
+Blue,Attrited Customer,709488108,40,College,M,$40K - $60K,Single,0,10543,42,4,36,0%
+Blue,Attrited Customer,788794758,40,Graduate,M,$40K - $60K,Single,0,2979,46,4,28,0%
+Blue,Attrited Customer,779315508,40,Post-Graduate,M,$40K - $60K,Single,1974,9043,43,4,25,22%
+Blue,Attrited Customer,772273983,40,Unknown,M,$40K - $60K,Single,2191,5268,48,4,37,42%
+Blue,Attrited Customer,821724483,40,Unknown,M,$40K - $60K,Single,1744,11272,48,4,43,16%
+Blue,Attrited Customer,713590158,40,Graduate,M,$60K - $80K,Single,2080,5045,41,4,34,41%
+Blue,Attrited Customer,789942033,40,Graduate,M,$60K - $80K,Single,0,10573,43,4,34,0%
+Blue,Attrited Customer,716387733,40,Graduate,M,$60K - $80K,Single,1484,5662,49,4,36,26%
+Blue,Attrited Customer,712036383,40,High School,M,$60K - $80K,Single,0,18418,49,4,30,0%
+Blue,Attrited Customer,719756133,30,Unknown,M,$60K - $80K,Single,1384,3940,34,4,20,35%
+Blue,Retained Customers,709224033,50,Unknown,M,$60K - $80K,Single,0,13720,53,4,43,0%
+Blue,Attrited Customer,711167808,40,Unknown,M,$60K - $80K,Single,0,18975,40,4,30,0%
+Blue,Attrited Customer,778381608,40,Doctorate,M,$80K - $120K,Single,417,6572,48,4,28,6%
+Blue,Attrited Customer,714408933,40,Graduate,M,$80K - $120K,Single,0,10834,44,4,36,0%
+Blue,Attrited Customer,710654808,40,Graduate,M,$80K - $120K,Single,0,1818,46,4,36,0%
+Blue,Attrited Customer,712010358,40,Graduate,M,$80K - $120K,Single,0,3999,49,4,36,0%
+Blue,Attrited Customer,718958583,40,Post-Graduate,M,$80K - $120K,Single,1606,2367,44,4,36,68%
+Blue,Attrited Customer,712895733,40,Unknown,M,$80K - $120K,Single,572,34516,40,4,36,2%
+Blue,Retained Customers,778207083,50,Unknown,M,$80K - $120K,Single,2189,11561,53,4,44,19%
+Blue,Attrited Customer,717448383,40,Unknown,M,$80K - $120K,Single,0,4428,41,4,28,0%
+Blue,Attrited Customer,712038258,40,Unknown,M,$80K - $120K,Single,1717,32838,48,4,36,5%
+Blue,Attrited Customer,718230933,40,Graduate,M,Less than $40K,Single,1060,1438.3,45,4,36,74%
+Blue,Attrited Customer,710527533,40,College,M,$40K - $60K,Single,0,4982,45,5,36,0%
+Blue,Attrited Customer,715714458,40,Graduate,M,$40K - $60K,Single,0,4446,48,5,38,0%
+Blue,Attrited Customer,711538758,30,Graduate,M,$60K - $80K,Single,633,24657,39,5,36,3%
+Blue,Attrited Customer,772695033,40,High School,M,$80K - $120K,Single,2517,18800,47,5,37,13%
+Blue,Retained Customers,711935283,50,Post-Graduate,M,$80K - $120K,Single,0,1438.3,55,5,47,0%
+Blue,Attrited Customer,709075533,40,Unknown,M,$80K - $120K,Single,0,12094,41,5,32,0%
+Gold,Retained Customers,715645908,50,High School,M,$80K - $120K,Single,0,34516,59,0,48,0%
+Gold,Attrited Customer,716124408,30,Graduate,M,$120K +,Single,1692,34516,32,2,22,5%
+Gold,Attrited Customer,811700058,40,Graduate,M,$60K - $80K,Single,687,34516,41,2,36,2%
+Gold,Retained Customers,710047533,50,Graduate,M,$80K - $120K,Single,2201,34516,51,3,36,6%
+Gold,Attrited Customer,816378033,40,Unknown,M,$80K - $120K,Single,1104,34516,46,4,41,3%
+Gold,Attrited Customer,709163358,40,Unknown,M,$60K - $80K,Single,2517,34516,41,5,32,7%
+Silver,Retained Customers,787921383,50,High School,M,$120K +,Single,2297,34516,53,0,44,7%
+Silver,Attrited Customer,720508233,60,Unknown,M,$40K - $60K,Single,0,17161,62,0,42,0%
+Silver,Attrited Customer,710066133,30,Graduate,M,Less than $40K,Single,0,12833,30,0,36,0%
+Silver,Retained Customers,780450708,50,College,M,$120K +,Single,0,34516,58,1,45,0%
+Silver,Retained Customers,780006783,50,Unknown,M,$40K - $60K,Single,0,15809,59,1,49,0%
+Silver,Retained Customers,754443033,50,Graduate,M,$80K - $120K,Single,432,34516,50,1,43,1%
+Silver,Attrited Customer,709996833,30,Post-Graduate,M,Less than $40K,Single,0,12359,31,1,36,0%
+Silver,Retained Customers,721451208,50,Graduate,M,$60K - $80K,Single,0,30540,54,2,45,0%
+Silver,Retained Customers,720362058,50,Unknown,M,$60K - $80K,Single,0,32182,57,2,49,0%
+Silver,Retained Customers,826245858,50,Graduate,M,$80K - $120K,Single,0,34516,50,2,40,0%
+Silver,Retained Customers,789684258,50,Post-Graduate,M,$80K - $120K,Single,1847,34516,57,2,43,5%
+Silver,Attrited Customer,716863458,40,Unknown,M,$80K - $120K,Single,569,34516,44,2,36,2%
+Silver,Retained Customers,716644008,50,Graduate,M,$120K +,Single,0,34516,55,3,36,0%
+Silver,Retained Customers,717793983,50,Graduate,M,$40K - $60K,Single,0,18128,55,3,45,0%
+Silver,Attrited Customer,718279008,40,High School,M,$60K - $80K,Single,0,25276,44,3,36,0%
+Silver,Attrited Customer,790145733,40,College,M,$80K - $120K,Single,0,34516,40,3,33,0%
+Silver,Attrited Customer,711205758,40,College,M,$80K - $120K,Single,0,34516,45,3,33,0%
+Silver,Retained Customers,712841883,50,College,M,$80K - $120K,Single,2517,34516,50,3,36,7%
+Silver,Retained Customers,710980383,50,High School,M,$80K - $120K,Single,0,34516,53,3,33,0%
+Silver,Retained Customers,779502333,50,Graduate,M,$120K +,Single,0,34516,50,4,32,0%
+Silver,Retained Customers,807393558,50,Unknown,M,$120K +,Single,1279,34516,51,4,46,4%
+Silver,Attrited Customer,714945708,30,College,M,$40K - $60K,Single,0,15977,33,4,20,0%
+Silver,Attrited Customer,770038983,30,High School,M,$60K - $80K,Single,2517,28831,37,4,31,9%
+Silver,Attrited Customer,713206683,40,Graduate,M,$80K - $120K,Single,0,34516,40,4,22,0%
+Silver,Attrited Customer,718458858,40,Graduate,M,$80K - $120K,Single,0,34516,41,4,29,0%
+Silver,Retained Customers,712768983,50,Graduate,M,$80K - $120K,Single,230,34516,51,4,42,1%
+Silver,Retained Customers,815539233,50,High School,M,$80K - $120K,Single,214,34516,54,4,49,1%
+Silver,Attrited Customer,809599158,40,Unknown,M,$80K - $120K,Single,0,34516,48,4,43,0%
+Silver,Attrited Customer,751518633,40,Post-Graduate,M,$120K +,Single,2517,34516,48,5,41,7%
+Silver,Attrited Customer,712766208,40,Unknown,M,$120K +,Single,0,34516,45,5,36,0%
+Silver,Attrited Customer,718665033,40,Doctorate,M,$60K - $80K,Single,0,34140,44,5,36,0%
+Blue,Attrited Customer,803115258,60,College,M,$40K - $60K,Unknown,0,3477,62,0,56,0%
+Blue,Retained Customers,713663508,50,High School,M,$40K - $60K,Unknown,0,1438.3,58,0,42,0%
+Blue,Retained Customers,780008358,50,Unknown,M,$60K - $80K,Unknown,0,13172,59,0,48,0%
+Blue,Retained Customers,714894708,50,Unknown,M,$120K +,Unknown,2517,23958,53,1,45,11%
+Blue,Attrited Customer,717579258,30,Unknown,M,$40K - $60K,Unknown,1462,6893,36,1,36,21%
+Blue,Attrited Customer,709764483,60,Graduate,M,$60K - $80K,Unknown,581,6157,61,1,53,9%
+Blue,Retained Customers,708152358,50,Post-Graduate,M,$80K - $120K,Unknown,1664,18512,54,1,36,9%
+Blue,Retained Customers,715076358,50,Post-Graduate,M,$80K - $120K,Unknown,0,23714,57,1,36,0%
+Blue,Retained Customers,771411408,50,Post-Graduate,M,$80K - $120K,Unknown,0,2673,50,1,38,0%
+Blue,Retained Customers,713755458,50,Unknown,M,$80K - $120K,Unknown,952,9959,50,1,36,10%
+Blue,Retained Customers,715830558,50,Unknown,M,$120K +,Unknown,397,34516,50,2,38,1%
+Blue,Attrited Customer,709548783,40,Doctorate,M,$40K - $60K,Unknown,0,1438.3,44,2,36,0%
+Blue,Attrited Customer,717406983,30,Graduate,M,$40K - $60K,Unknown,0,5281,30,2,36,0%
+Blue,Attrited Customer,712597233,30,Unknown,M,$40K - $60K,Unknown,1721,3250,37,2,36,53%
+Blue,Attrited Customer,718437033,40,Unknown,M,$60K - $80K,Unknown,681,1438.3,46,2,30,47%
+Blue,Attrited Customer,720504633,40,Unknown,M,$60K - $80K,Unknown,0,3254,46,2,32,0%
+Blue,Attrited Customer,771424908,30,Unknown,M,$60K - $80K,Unknown,1129,11252,38,2,26,10%
+Blue,Attrited Customer,710410158,40,Graduate,M,$80K - $120K,Unknown,0,34516,49,2,38,0%
+Blue,Attrited Customer,710155158,30,Unknown,M,$80K - $120K,Unknown,518,31832,37,2,18,2%
+Blue,Retained Customers,713930433,50,Unknown,M,$80K - $120K,Unknown,0,4316,57,2,36,0%
+Blue,Retained Customers,708197358,50,Unknown,M,$80K - $120K,Unknown,264,30543,57,2,48,1%
+Blue,Attrited Customer,709383933,30,Unknown,M,$80K - $120K,Unknown,2517,4246,31,2,18,59%
+Blue,Attrited Customer,709657533,40,High School,M,$120K +,Unknown,2270,7793,44,3,36,29%
+Blue,Attrited Customer,715570533,40,Post-Graduate,M,$120K +,Unknown,0,34516,48,3,35,0%
+Blue,Retained Customers,803796708,50,Unknown,M,$120K +,Unknown,0,13354,52,3,46,0%
+Blue,Attrited Customer,720379533,40,Unknown,M,$120K +,Unknown,0,3952,47,3,36,0%
+Blue,Attrited Customer,789052308,40,Graduate,M,$40K - $60K,Unknown,0,4323,40,3,28,0%
+Blue,Attrited Customer,713826183,40,High School,M,$40K - $60K,Unknown,0,1639,41,3,33,0%
+Blue,Attrited Customer,708139833,40,Graduate,M,$60K - $80K,Unknown,0,6391,40,3,30,0%
+Blue,Attrited Customer,713333433,40,Unknown,M,$60K - $80K,Unknown,0,18075,49,3,41,0%
+Blue,Attrited Customer,720903258,40,Unknown,M,$60K - $80K,Unknown,0,9405,48,3,28,0%
+Blue,Retained Customers,709309308,50,College,M,$80K - $120K,Unknown,0,27186,50,3,37,0%
+Blue,Attrited Customer,720905133,40,Graduate,M,$80K - $120K,Unknown,1095,11422,43,3,29,10%
+Blue,Attrited Customer,718524783,40,High School,M,$80K - $120K,Unknown,0,29715,40,3,34,0%
+Blue,Attrited Customer,709688883,40,High School,M,$80K - $120K,Unknown,0,3845,45,3,36,0%
+Blue,Attrited Customer,711741708,40,Post-Graduate,M,$80K - $120K,Unknown,0,7591,41,3,33,0%
+Blue,Attrited Customer,775152708,40,Post-Graduate,M,$80K - $120K,Unknown,901,20769,49,3,39,4%
+Blue,Attrited Customer,712602708,30,Unknown,M,$80K - $120K,Unknown,0,1815,36,3,36,0%
+Blue,Attrited Customer,781137783,40,High School,M,Less than $40K,Unknown,191,2420,40,3,33,8%
+Blue,Attrited Customer,710658483,40,Graduate,M,$40K - $60K,Unknown,2174,9080,47,4,34,24%
+Blue,Attrited Customer,709430508,40,High School,M,$40K - $60K,Unknown,1335,7316,40,4,32,18%
+Blue,Attrited Customer,780086658,40,Doctorate,M,$60K - $80K,Unknown,0,18229,43,4,28,0%
+Blue,Attrited Customer,713261133,30,Graduate,M,$60K - $80K,Unknown,0,8632,38,4,22,0%
+Blue,Attrited Customer,806256333,40,Graduate,M,$60K - $80K,Unknown,312,1438.3,41,4,36,22%
+Blue,Attrited Customer,796931508,40,High School,M,$60K - $80K,Unknown,0,1871,42,4,36,0%
+Blue,Attrited Customer,720592533,40,Graduate,M,$80K - $120K,Unknown,868,19782,41,4,31,4%
+Blue,Attrited Customer,780384483,40,Unknown,M,$80K - $120K,Unknown,925,2886,49,4,39,32%
+Blue,Attrited Customer,821241708,40,Unknown,M,$80K - $120K,Unknown,0,7953,47,4,42,0%
+Blue,Attrited Customer,711275433,40,Unknown,M,Unknown,Unknown,0,18873,47,4,36,0%
+Blue,Attrited Customer,785262333,40,Unknown,M,$40K - $60K,Unknown,1960,6185,46,5,40,32%
+Blue,Attrited Customer,717308433,40,Unknown,M,$60K - $80K,Unknown,0,1960,49,5,43,0%
+Blue,Attrited Customer,809811858,40,High School,M,$80K - $120K,Unknown,0,1504,43,5,38,0%
+Gold,Attrited Customer,719874633,40,High School,M,$80K - $120K,Unknown,0,34516,44,1,36,0%
+Gold,Retained Customers,718353633,50,Post-Graduate,M,$80K - $120K,Unknown,0,34516,50,1,36,0%
+Gold,Attrited Customer,713390433,40,Graduate,M,$60K - $80K,Unknown,2517,34516,44,3,29,7%
+Silver,Attrited Customer,720353808,30,High School,M,$80K - $120K,Unknown,0,34516,34,3,21,0%
+Silver,Attrited Customer,713573508,40,Graduate,M,$40K - $60K,Unknown,425,16509,41,4,32,3%
